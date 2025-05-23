@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Region,Category,Sub-Category,Segment,Sales,Profit,Quantity,Discount
+CA-100000,2022-01-01,2022-01-05,Central,Furniture,Tables,Consumer,143.09,4.94,2,0.03
+CA-100001,2022-01-02,2022-01-04,Central,Technology,Copiers,Home Office,306.4,-20.14,9,0.14
+CA-100002,2022-01-03,2022-01-07,Central,Office Supplies,Envelopes,Corporate,365.13,-54.59,2,0.12
+CA-100003,2022-01-04,2022-01-08,Central,Furniture,Furnishings,Corporate,806.39,-93.75,3,0.26
+CA-100004,2022-01-05,2022-01-07,South,Technology,Copiers,Home Office,285.97,-36.14,7,0.07
+CA-100005,2022-01-06,2022-01-08,East,Office Supplies,Envelopes,Home Office,218.6,62.64,3,0.29
+CA-100006,2022-01-07,2022-01-11,South,Technology,Accessories,Consumer,957.87,172.08,9,0.29
+CA-100007,2022-01-08,2022-01-11,South,Office Supplies,Binders,Consumer,18.77,5.33,6,0.07
+CA-100008,2022-01-09,2022-01-13,Central,Technology,Phones,Home Office,997.84,19.83,3,0.1
+CA-100009,2022-01-10,2022-01-14,West,Office Supplies,Envelopes,Corporate,680.05,-41.36,9,0.27
+CA-100010,2022-01-11,2022-01-15,West,Furniture,Bookcases,Consumer,830.18,165.33,1,0.29
+CA-100011,2022-01-12,2022-01-16,South,Office Supplies,Paper,Consumer,301.67,-11.12,3,0.13
+CA-100012,2022-01-13,2022-01-15,South,Technology,Phones,Corporate,24.17,-1.22,1,0.1
+CA-100013,2022-01-14,2022-01-18,Central,Technology,Accessories,Consumer,740.49,-62.01,2,0.16
+CA-100014,2022-01-15,2022-01-18,South,Office Supplies,Envelopes,Corporate,835.8,-112.97,8,0.21
+CA-100015,2022-01-16,2022-01-18,Central,Furniture,Furnishings,Corporate,743.07,-53.33,7,0.08
+CA-100016,2022-01-17,2022-01-20,West,Furniture,Chairs,Corporate,151.42,-3.38,2,0.22
+CA-100017,2022-01-18,2022-01-21,West,Office Supplies,Envelopes,Home Office,755.89,103.55,2,0.02
+CA-100018,2022-01-19,2022-01-22,East,Office Supplies,Pens,Home Office,771.23,-130.12,9,0.01
+CA-100019,2022-01-20,2022-01-23,West,Technology,Machines,Home Office,661.96,-62.72,6,0.12
+CA-100020,2022-01-21,2022-01-23,South,Furniture,Furnishings,Corporate,768.45,157.16,5,0.11
+CA-100021,2022-01-22,2022-01-24,West,Office Supplies,Envelopes,Corporate,847.46,-107.24,6,0.09
+CA-100022,2022-01-23,2022-01-26,Central,Furniture,Tables,Home Office,617.47,-17.71,9,0.15
+CA-100023,2022-01-24,2022-01-27,West,Office Supplies,Paper,Consumer,97.72,22.7,7,0.1
+CA-100024,2022-01-25,2022-01-27,East,Office Supplies,Binders,Corporate,492.75,-60.38,9,0.06
+CA-100025,2022-01-26,2022-01-28,West,Furniture,Chairs,Consumer,86.87,-13.78,4,0.09
+CA-100026,2022-01-27,2022-01-29,Central,Office Supplies,Binders,Consumer,413.47,17.48,2,0.29
+CA-100027,2022-01-28,2022-02-01,Central,Office Supplies,Envelopes,Corporate,413.04,-20.15,8,0.12
+CA-100028,2022-01-29,2022-02-02,South,Technology,Accessories,Corporate,75.35,6.16,4,0.13
+CA-100029,2022-01-30,2022-02-03,West,Office Supplies,Pens,Consumer,355.33,71.74,9,0.17
+CA-100030,2022-01-31,2022-02-03,Central,Office Supplies,Envelopes,Consumer,119.89,-15.76,4,0.3
+CA-100031,2022-02-01,2022-02-05,East,Office Supplies,Envelopes,Home Office,810.15,73.2,8,0.07
+CA-100032,2022-02-02,2022-02-05,South,Technology,Machines,Home Office,948.21,50.02,9,0.2
+CA-100033,2022-02-03,2022-02-06,East,Furniture,Bookcases,Corporate,81.59,-10.44,9,0.21
+CA-100034,2022-02-04,2022-02-08,West,Technology,Phones,Home Office,955.56,107.02,4,0.18
+CA-100035,2022-02-05,2022-02-08,West,Technology,Copiers,Home Office,527.35,-33.32,1,0.03
+CA-100036,2022-02-06,2022-02-10,West,Furniture,Chairs,Home Office,306.57,13.46,3,0.2
+CA-100037,2022-02-07,2022-02-11,South,Technology,Copiers,Home Office,86.09,-13.68,9,0.02
+CA-100038,2022-02-08,2022-02-10,Central,Furniture,Tables,Consumer,505.62,15.06,4,0.18
+CA-100039,2022-02-09,2022-02-13,South,Technology,Machines,Corporate,796.57,-37.25,5,0.22
+CA-100040,2022-02-10,2022-02-12,East,Furniture,Furnishings,Home Office,710.02,149.95,7,0.06
+CA-100041,2022-02-11,2022-02-15,South,Office Supplies,Envelopes,Consumer,59.72,-10.24,5,0.25
+CA-100042,2022-02-12,2022-02-16,East,Technology,Phones,Consumer,82.17,0.76,4,0.01
+CA-100043,2022-02-13,2022-02-15,South,Technology,Copiers,Consumer,408.84,11.94,2,0.25
+CA-100044,2022-02-14,2022-02-16,Central,Technology,Accessories,Home Office,302.34,49.13,2,0.14
+CA-100045,2022-02-15,2022-02-19,East,Technology,Copiers,Home Office,240.06,20.92,4,0.07
+CA-100046,2022-02-16,2022-02-19,West,Office Supplies,Envelopes,Corporate,288.19,38.5,9,0.04
+CA-100047,2022-02-17,2022-02-19,West,Technology,Accessories,Home Office,805.45,151.85,8,0.29
+CA-100048,2022-02-18,2022-02-21,South,Office Supplies,Paper,Home Office,929.94,214.91,3,0.02
+CA-100049,2022-02-19,2022-02-22,West,Office Supplies,Envelopes,Consumer,411.05,-17.7,9,0.06
+CA-100050,2022-02-20,2022-02-23,East,Office Supplies,Pens,Corporate,907.05,62.6,5,0.1
+CA-100051,2022-02-21,2022-02-23,West,Office Supplies,Envelopes,Home Office,328.28,72.24,3,0.19
+CA-100052,2022-02-22,2022-02-25,Central,Furniture,Bookcases,Home Office,481.67,141.96,5,0.16
+CA-100053,2022-02-23,2022-02-25,Central,Furniture,Tables,Consumer,233.77,57.22,4,0.04
+CA-100054,2022-02-24,2022-02-27,South,Technology,Accessories,Consumer,644.07,-9.19,8,0.09
+CA-100055,2022-02-25,2022-03-01,East,Furniture,Furnishings,Home Office,979.19,-100.29,5,0.07
+CA-100056,2022-02-26,2022-03-02,Central,Furniture,Tables,Corporate,607.46,27.15,8,0.06
+CA-100057,2022-02-27,2022-03-01,Central,Technology,Phones,Corporate,364.24,62.22,9,0.12
+CA-100058,2022-02-28,2022-03-04,East,Technology,Accessories,Consumer,651.34,30.15,4,0.21
+CA-100059,2022-03-01,2022-03-05,West,Technology,Phones,Consumer,131.69,5.48,7,0.07
+CA-100060,2022-03-02,2022-03-05,West,Furniture,Tables,Home Office,889.77,194.96,2,0.11
+CA-100061,2022-03-03,2022-03-05,South,Furniture,Furnishings,Consumer,508.05,-9.8,6,0.12
+CA-100062,2022-03-04,2022-03-07,West,Technology,Machines,Home Office,454.86,104.57,8,0.29
+CA-100063,2022-03-05,2022-03-08,East,Office Supplies,Binders,Corporate,590.01,2.01,7,0.29
+CA-100064,2022-03-06,2022-03-09,Central,Technology,Machines,Corporate,628.54,-22.55,7,0.24
+CA-100065,2022-03-07,2022-03-10,West,Office Supplies,Paper,Home Office,81.06,2.19,8,0.07
+CA-100066,2022-03-08,2022-03-11,South,Office Supplies,Paper,Consumer,685.79,124.28,7,0.02
+CA-100067,2022-03-09,2022-03-12,West,Technology,Machines,Corporate,249.51,-34.18,5,0.1
+CA-100068,2022-03-10,2022-03-13,East,Technology,Accessories,Consumer,716.81,-72.96,7,0.08
+CA-100069,2022-03-11,2022-03-13,South,Technology,Copiers,Corporate,824.31,227.28,3,0.15
+CA-100070,2022-03-12,2022-03-16,West,Furniture,Bookcases,Home Office,805.92,-90.47,5,0.23
+CA-100071,2022-03-13,2022-03-16,South,Office Supplies,Paper,Home Office,556.98,46.71,7,0.26
+CA-100072,2022-03-14,2022-03-17,East,Furniture,Furnishings,Home Office,524.97,47.07,9,0.25
+CA-100073,2022-03-15,2022-03-18,Central,Furniture,Chairs,Corporate,151.45,6.79,2,0.11
+CA-100074,2022-03-16,2022-03-19,East,Technology,Machines,Consumer,777.59,95.16,4,0.21
+CA-100075,2022-03-17,2022-03-20,East,Furniture,Chairs,Consumer,278.7,-23.71,7,0.09
+CA-100076,2022-03-18,2022-03-21,East,Technology,Machines,Consumer,501.73,38.3,1,0.02
+CA-100077,2022-03-19,2022-03-23,East,Office Supplies,Paper,Corporate,291.43,-4.05,2,0.21
+CA-100078,2022-03-20,2022-03-24,Central,Technology,Copiers,Corporate,142.49,18.64,9,0.0
+CA-100079,2022-03-21,2022-03-24,Central,Furniture,Furnishings,Corporate,633.26,-81.94,7,0.12
+CA-100080,2022-03-22,2022-03-26,South,Furniture,Chairs,Corporate,63.79,5.45,7,0.1
+CA-100081,2022-03-23,2022-03-25,West,Technology,Copiers,Corporate,751.16,-80.65,6,0.21
+CA-100082,2022-03-24,2022-03-27,Central,Technology,Phones,Consumer,324.41,-19.68,3,0.23
+CA-100083,2022-03-25,2022-03-27,Central,Furniture,Tables,Corporate,10.13,-0.92,3,0.09
+CA-100084,2022-03-26,2022-03-28,West,Office Supplies,Pens,Corporate,516.02,-56.03,2,0.24
+CA-100085,2022-03-27,2022-03-30,Central,Office Supplies,Binders,Consumer,56.38,12.0,6,0.09
+CA-100086,2022-03-28,2022-04-01,East,Technology,Machines,Corporate,283.41,-16.2,4,0.13
+CA-100087,2022-03-29,2022-03-31,East,Office Supplies,Paper,Consumer,709.91,187.11,5,0.22
+CA-100088,2022-03-30,2022-04-02,West,Furniture,Tables,Consumer,72.06,20.53,3,0.21
+CA-100089,2022-03-31,2022-04-02,South,Technology,Accessories,Home Office,840.95,72.01,6,0.3
+CA-100090,2022-04-01,2022-04-03,South,Furniture,Furnishings,Home Office,13.78,-1.77,3,0.07
+CA-100091,2022-04-02,2022-04-04,West,Furniture,Furnishings,Home Office,254.36,-3.24,8,0.2
+CA-100092,2022-04-03,2022-04-05,West,Office Supplies,Pens,Home Office,743.5,147.86,9,0.18
+CA-100093,2022-04-04,2022-04-08,East,Technology,Machines,Corporate,323.11,-5.27,4,0.27
+CA-100094,2022-04-05,2022-04-07,South,Technology,Copiers,Home Office,110.87,-17.35,9,0.05
+CA-100095,2022-04-06,2022-04-08,Central,Office Supplies,Paper,Consumer,366.63,28.74,7,0.23
+CA-100096,2022-04-07,2022-04-09,East,Furniture,Bookcases,Corporate,277.69,61.8,3,0.17
+CA-100097,2022-04-08,2022-04-12,West,Furniture,Chairs,Home Office,844.28,167.14,7,0.08
+CA-100098,2022-04-09,2022-04-11,South,Furniture,Tables,Consumer,320.21,-36.0,1,0.14
+CA-100099,2022-04-10,2022-04-12,Central,Furniture,Tables,Corporate,791.04,107.88,3,0.1
+CA-100100,2022-04-11,2022-04-15,Central,Technology,Copiers,Corporate,892.95,-80.14,6,0.17
+CA-100101,2022-04-12,2022-04-16,East,Technology,Accessories,Home Office,439.48,-39.95,4,0.27
+CA-100102,2022-04-13,2022-04-17,South,Office Supplies,Envelopes,Corporate,910.84,215.9,7,0.17
+CA-100103,2022-04-14,2022-04-16,South,Office Supplies,Binders,Consumer,383.54,-28.83,3,0.19
+CA-100104,2022-04-15,2022-04-19,West,Technology,Copiers,Corporate,964.44,-65.94,1,0.16
+CA-100105,2022-04-16,2022-04-20,South,Technology,Copiers,Consumer,98.4,-19.65,9,0.02
+CA-100106,2022-04-17,2022-04-19,South,Furniture,Tables,Corporate,690.15,162.42,6,0.07
+CA-100107,2022-04-18,2022-04-22,East,Furniture,Furnishings,Home Office,498.88,97.93,8,0.15
+CA-100108,2022-04-19,2022-04-21,South,Office Supplies,Paper,Consumer,393.77,44.76,3,0.09
+CA-100109,2022-04-20,2022-04-23,Central,Technology,Accessories,Corporate,636.38,111.45,8,0.05
+CA-100110,2022-04-21,2022-04-25,East,Office Supplies,Pens,Corporate,706.82,-87.63,2,0.15
+CA-100111,2022-04-22,2022-04-25,East,Technology,Accessories,Corporate,14.32,0.42,4,0.1
+CA-100112,2022-04-23,2022-04-25,West,Furniture,Chairs,Consumer,175.28,-4.28,3,0.08
+CA-100113,2022-04-24,2022-04-28,South,Office Supplies,Paper,Consumer,715.92,-109.62,1,0.14
+CA-100114,2022-04-25,2022-04-27,West,Office Supplies,Paper,Consumer,669.72,28.84,7,0.04
+CA-100115,2022-04-26,2022-04-29,Central,Technology,Copiers,Home Office,966.39,251.62,2,0.28
+CA-100116,2022-04-27,2022-04-29,East,Furniture,Tables,Home Office,763.43,-137.39,4,0.26
+CA-100117,2022-04-28,2022-05-02,East,Office Supplies,Envelopes,Consumer,951.26,-51.62,9,0.21
+CA-100118,2022-04-29,2022-05-03,East,Furniture,Bookcases,Corporate,705.52,-67.89,6,0.03
+CA-100119,2022-04-30,2022-05-03,Central,Office Supplies,Paper,Home Office,305.07,-24.69,8,0.23
+CA-100120,2022-05-01,2022-05-03,Central,Furniture,Chairs,Consumer,114.31,29.06,2,0.24
+CA-100121,2022-05-02,2022-05-06,West,Technology,Phones,Corporate,784.01,26.68,7,0.23
+CA-100122,2022-05-03,2022-05-06,West,Office Supplies,Pens,Home Office,647.71,21.47,6,0.03
+CA-100123,2022-05-04,2022-05-08,West,Office Supplies,Pens,Corporate,57.7,10.4,9,0.19
+CA-100124,2022-05-05,2022-05-09,South,Furniture,Tables,Corporate,366.45,-44.98,7,0.25
+CA-100125,2022-05-06,2022-05-08,East,Furniture,Furnishings,Corporate,957.23,41.77,1,0.17
+CA-100126,2022-05-07,2022-05-11,East,Office Supplies,Paper,Corporate,505.4,7.58,8,0.19
+CA-100127,2022-05-08,2022-05-10,West,Technology,Phones,Home Office,438.4,43.16,3,0.14
+CA-100128,2022-05-09,2022-05-13,East,Furniture,Furnishings,Home Office,463.12,138.83,2,0.16
+CA-100129,2022-05-10,2022-05-13,West,Furniture,Furnishings,Home Office,216.79,40.05,3,0.01
+CA-100130,2022-05-11,2022-05-15,South,Furniture,Furnishings,Consumer,375.02,-0.4,6,0.19
+CA-100131,2022-05-12,2022-05-14,South,Office Supplies,Paper,Home Office,376.12,80.41,3,0.02
+CA-100132,2022-05-13,2022-05-15,Central,Office Supplies,Binders,Corporate,61.83,-7.09,5,0.13
+CA-100133,2022-05-14,2022-05-17,South,Office Supplies,Pens,Home Office,769.89,-142.25,6,0.09
+CA-100134,2022-05-15,2022-05-19,West,Office Supplies,Paper,Corporate,422.34,-41.29,8,0.16
+CA-100135,2022-05-16,2022-05-20,South,Technology,Copiers,Consumer,823.96,-24.55,7,0.04
+CA-100136,2022-05-17,2022-05-20,Central,Technology,Machines,Corporate,851.84,47.1,8,0.21
+CA-100137,2022-05-18,2022-05-22,East,Office Supplies,Envelopes,Corporate,219.87,23.65,3,0.24
+CA-100138,2022-05-19,2022-05-23,West,Technology,Accessories,Corporate,660.78,168.7,4,0.05
+CA-100139,2022-05-20,2022-05-22,East,Furniture,Chairs,Consumer,477.56,26.23,6,0.03
+CA-100140,2022-05-21,2022-05-25,Central,Furniture,Furnishings,Home Office,881.36,44.63,7,0.04
+CA-100141,2022-05-22,2022-05-26,Central,Furniture,Bookcases,Home Office,223.58,-39.1,9,0.26
+CA-100142,2022-05-23,2022-05-26,Central,Office Supplies,Pens,Consumer,681.04,-124.32,1,0.16
+CA-100143,2022-05-24,2022-05-27,East,Furniture,Tables,Corporate,611.67,46.23,8,0.14
+CA-100144,2022-05-25,2022-05-27,East,Technology,Copiers,Home Office,302.35,5.77,8,0.03
+CA-100145,2022-05-26,2022-05-30,East,Office Supplies,Binders,Consumer,145.23,31.89,6,0.19
+CA-100146,2022-05-27,2022-05-31,East,Technology,Machines,Home Office,655.12,-78.39,4,0.26
+CA-100147,2022-05-28,2022-06-01,Central,Furniture,Bookcases,Consumer,741.21,-138.99,3,0.25
+CA-100148,2022-05-29,2022-05-31,Central,Furniture,Bookcases,Corporate,322.47,7.91,3,0.19
+CA-100149,2022-05-30,2022-06-01,West,Furniture,Furnishings,Home Office,648.38,-52.69,6,0.02
+CA-100150,2022-05-31,2022-06-03,West,Office Supplies,Paper,Consumer,401.18,-70.28,8,0.03
+CA-100151,2022-06-01,2022-06-03,East,Technology,Copiers,Home Office,716.07,116.22,7,0.01
+CA-100152,2022-06-02,2022-06-06,South,Office Supplies,Paper,Home Office,207.22,-29.88,1,0.08
+CA-100153,2022-06-03,2022-06-07,South,Office Supplies,Paper,Home Office,891.31,92.84,6,0.04
+CA-100154,2022-06-04,2022-06-06,Central,Furniture,Bookcases,Home Office,294.54,-17.52,7,0.08
+CA-100155,2022-06-05,2022-06-09,Central,Office Supplies,Binders,Consumer,374.11,-42.37,7,0.12
+CA-100156,2022-06-06,2022-06-10,Central,Office Supplies,Paper,Corporate,67.51,-0.68,9,0.28
+CA-100157,2022-06-07,2022-06-09,West,Furniture,Bookcases,Consumer,120.4,24.17,5,0.18
+CA-100158,2022-06-08,2022-06-10,West,Office Supplies,Paper,Consumer,520.7,-2.06,1,0.25
+CA-100159,2022-06-09,2022-06-13,Central,Furniture,Furnishings,Consumer,274.92,48.22,2,0.21
+CA-100160,2022-06-10,2022-06-14,Central,Furniture,Chairs,Corporate,837.13,-114.9,4,0.03
+CA-100161,2022-06-11,2022-06-15,Central,Furniture,Chairs,Home Office,24.55,4.58,5,0.22
+CA-100162,2022-06-12,2022-06-15,South,Furniture,Furnishings,Home Office,385.3,-31.41,9,0.08
+CA-100163,2022-06-13,2022-06-16,West,Office Supplies,Envelopes,Home Office,343.97,47.71,1,0.19
+CA-100164,2022-06-14,2022-06-17,South,Furniture,Tables,Corporate,29.13,2.41,3,0.1
+CA-100165,2022-06-15,2022-06-17,South,Furniture,Furnishings,Home Office,133.12,35.22,5,0.3
+CA-100166,2022-06-16,2022-06-19,Central,Office Supplies,Binders,Corporate,419.51,-2.66,3,0.08
+CA-100167,2022-06-17,2022-06-19,Central,Office Supplies,Envelopes,Home Office,497.94,-83.11,4,0.08
+CA-100168,2022-06-18,2022-06-20,East,Technology,Copiers,Home Office,410.25,-78.12,3,0.28
+CA-100169,2022-06-19,2022-06-22,East,Office Supplies,Pens,Consumer,535.63,114.32,4,0.01
+CA-100170,2022-06-20,2022-06-23,South,Office Supplies,Paper,Corporate,599.18,37.37,1,0.21
+CA-100171,2022-06-21,2022-06-24,West,Technology,Phones,Consumer,19.82,3.72,8,0.22
+CA-100172,2022-06-22,2022-06-26,Central,Office Supplies,Pens,Consumer,469.45,-38.86,4,0.25
+CA-100173,2022-06-23,2022-06-26,Central,Office Supplies,Envelopes,Consumer,963.86,-26.47,7,0.29
+CA-100174,2022-06-24,2022-06-28,South,Office Supplies,Pens,Corporate,523.84,-96.88,2,0.29
+CA-100175,2022-06-25,2022-06-27,East,Office Supplies,Pens,Corporate,680.77,191.12,2,0.02
+CA-100176,2022-06-26,2022-06-30,West,Technology,Accessories,Home Office,318.75,42.69,6,0.25
+CA-100177,2022-06-27,2022-06-30,East,Office Supplies,Envelopes,Consumer,776.25,206.95,2,0.19
+CA-100178,2022-06-28,2022-06-30,East,Office Supplies,Envelopes,Home Office,775.19,-52.13,6,0.19
+CA-100179,2022-06-29,2022-07-01,East,Technology,Machines,Consumer,526.08,55.62,2,0.04
+CA-100180,2022-06-30,2022-07-02,East,Furniture,Tables,Corporate,976.25,135.94,4,0.2
+CA-100181,2022-07-01,2022-07-05,Central,Technology,Machines,Corporate,134.29,-5.54,7,0.29
+CA-100182,2022-07-02,2022-07-05,Central,Furniture,Furnishings,Corporate,26.78,6.0,8,0.27
+CA-100183,2022-07-03,2022-07-05,East,Technology,Copiers,Consumer,772.46,211.33,3,0.13
+CA-100184,2022-07-04,2022-07-06,West,Technology,Copiers,Corporate,809.08,196.14,9,0.01
+CA-100185,2022-07-05,2022-07-07,South,Office Supplies,Envelopes,Consumer,129.01,21.87,2,0.11
+CA-100186,2022-07-06,2022-07-10,West,Furniture,Chairs,Home Office,272.93,-16.72,8,0.25
+CA-100187,2022-07-07,2022-07-11,West,Office Supplies,Binders,Consumer,27.38,-1.62,8,0.21
+CA-100188,2022-07-08,2022-07-11,West,Furniture,Furnishings,Home Office,300.38,84.61,4,0.14
+CA-100189,2022-07-09,2022-07-13,East,Technology,Phones,Consumer,775.41,-151.09,1,0.02
+CA-100190,2022-07-10,2022-07-12,Central,Technology,Accessories,Home Office,522.78,82.61,1,0.13
+CA-100191,2022-07-11,2022-07-14,West,Furniture,Bookcases,Corporate,354.61,54.3,2,0.14
+CA-100192,2022-07-12,2022-07-14,East,Office Supplies,Paper,Home Office,378.02,42.09,9,0.28
+CA-100193,2022-07-13,2022-07-15,West,Office Supplies,Pens,Corporate,11.34,3.35,2,0.19
+CA-100194,2022-07-14,2022-07-18,West,Office Supplies,Binders,Corporate,306.8,-13.52,2,0.09
+CA-100195,2022-07-15,2022-07-18,East,Office Supplies,Binders,Home Office,649.99,-19.51,6,0.16
+CA-100196,2022-07-16,2022-07-20,Central,Technology,Machines,Consumer,974.45,-156.43,7,0.02
+CA-100197,2022-07-17,2022-07-21,Central,Technology,Phones,Consumer,848.59,18.16,7,0.29
+CA-100198,2022-07-18,2022-07-21,South,Technology,Phones,Consumer,33.36,-2.32,9,0.11
+CA-100199,2022-07-19,2022-07-21,East,Technology,Machines,Consumer,899.57,-25.46,6,0.14
+CA-100200,2022-07-20,2022-07-22,South,Technology,Machines,Consumer,785.37,170.65,8,0.11
+CA-100201,2022-07-21,2022-07-24,South,Office Supplies,Pens,Corporate,782.57,209.53,6,0.2
+CA-100202,2022-07-22,2022-07-24,South,Office Supplies,Binders,Consumer,463.42,-49.65,2,0.2
+CA-100203,2022-07-23,2022-07-26,Central,Office Supplies,Pens,Corporate,404.03,-5.55,1,0.21
+CA-100204,2022-07-24,2022-07-27,East,Office Supplies,Pens,Corporate,309.89,81.91,5,0.08
+CA-100205,2022-07-25,2022-07-29,South,Technology,Accessories,Corporate,75.04,-12.69,9,0.09
+CA-100206,2022-07-26,2022-07-29,East,Technology,Phones,Home Office,235.95,-36.29,8,0.04
+CA-100207,2022-07-27,2022-07-31,East,Technology,Phones,Home Office,254.14,-30.14,4,0.2
+CA-100208,2022-07-28,2022-07-30,Central,Furniture,Tables,Corporate,489.24,47.75,5,0.01
+CA-100209,2022-07-29,2022-07-31,South,Office Supplies,Pens,Home Office,749.97,-93.57,5,0.18
+CA-100210,2022-07-30,2022-08-01,South,Office Supplies,Binders,Consumer,479.07,136.07,6,0.26
+CA-100211,2022-07-31,2022-08-02,East,Technology,Copiers,Consumer,67.27,1.57,3,0.27
+CA-100212,2022-08-01,2022-08-05,West,Office Supplies,Paper,Corporate,958.21,48.64,5,0.13
+CA-100213,2022-08-02,2022-08-04,Central,Office Supplies,Envelopes,Consumer,943.3,-72.32,2,0.14
+CA-100214,2022-08-03,2022-08-06,Central,Technology,Copiers,Corporate,787.34,27.93,1,0.02
+CA-100215,2022-08-04,2022-08-07,Central,Furniture,Chairs,Corporate,991.41,129.83,1,0.2
+CA-100216,2022-08-05,2022-08-08,Central,Furniture,Furnishings,Consumer,549.04,96.41,7,0.25
+CA-100217,2022-08-06,2022-08-10,South,Furniture,Bookcases,Home Office,963.14,170.41,2,0.07
+CA-100218,2022-08-07,2022-08-09,South,Technology,Copiers,Consumer,84.85,7.55,4,0.13
+CA-100219,2022-08-08,2022-08-10,West,Office Supplies,Envelopes,Consumer,372.02,93.82,5,0.25
+CA-100220,2022-08-09,2022-08-11,Central,Technology,Machines,Corporate,233.13,48.66,7,0.26
+CA-100221,2022-08-10,2022-08-14,Central,Technology,Machines,Corporate,203.87,36.4,2,0.07
+CA-100222,2022-08-11,2022-08-14,East,Office Supplies,Binders,Corporate,149.39,-25.72,6,0.17
+CA-100223,2022-08-12,2022-08-15,South,Furniture,Chairs,Corporate,626.19,-123.08,1,0.06
+CA-100224,2022-08-13,2022-08-15,Central,Furniture,Bookcases,Home Office,783.51,-73.47,7,0.03
+CA-100225,2022-08-14,2022-08-17,West,Technology,Copiers,Home Office,582.52,76.75,9,0.27
+CA-100226,2022-08-15,2022-08-18,West,Furniture,Tables,Home Office,155.49,0.87,5,0.25
+CA-100227,2022-08-16,2022-08-20,South,Technology,Phones,Corporate,813.01,0.98,5,0.23
+CA-100228,2022-08-17,2022-08-21,West,Technology,Copiers,Corporate,639.6,154.97,4,0.01
+CA-100229,2022-08-18,2022-08-22,West,Office Supplies,Envelopes,Corporate,394.28,97.7,3,0.25
+CA-100230,2022-08-19,2022-08-23,South,Office Supplies,Envelopes,Home Office,677.39,172.46,9,0.13
+CA-100231,2022-08-20,2022-08-22,Central,Office Supplies,Binders,Corporate,267.31,-11.51,5,0.1
+CA-100232,2022-08-21,2022-08-25,Central,Technology,Machines,Consumer,351.74,51.19,8,0.16
+CA-100233,2022-08-22,2022-08-25,West,Office Supplies,Paper,Consumer,918.31,-58.94,9,0.03
+CA-100234,2022-08-23,2022-08-25,West,Furniture,Bookcases,Corporate,297.6,-31.16,5,0.23
+CA-100235,2022-08-24,2022-08-27,Central,Furniture,Bookcases,Consumer,475.29,-51.18,9,0.17
+CA-100236,2022-08-25,2022-08-28,South,Technology,Copiers,Consumer,891.24,-25.8,2,0.06
+CA-100237,2022-08-26,2022-08-29,West,Technology,Phones,Home Office,710.64,10.64,9,0.06
+CA-100238,2022-08-27,2022-08-31,East,Office Supplies,Envelopes,Corporate,71.58,15.42,4,0.06
+CA-100239,2022-08-28,2022-09-01,South,Technology,Accessories,Corporate,155.83,-21.82,6,0.02
+CA-100240,2022-08-29,2022-08-31,West,Technology,Phones,Home Office,17.76,2.97,6,0.18
+CA-100241,2022-08-30,2022-09-01,West,Furniture,Bookcases,Consumer,634.61,41.71,6,0.25
+CA-100242,2022-08-31,2022-09-04,East,Furniture,Tables,Consumer,453.2,-25.39,2,0.01
+CA-100243,2022-09-01,2022-09-04,East,Office Supplies,Pens,Corporate,142.93,6.63,7,0.01
+CA-100244,2022-09-02,2022-09-04,Central,Technology,Copiers,Consumer,958.35,-47.95,6,0.17
+CA-100245,2022-09-03,2022-09-07,South,Technology,Phones,Home Office,534.36,52.39,1,0.25
+CA-100246,2022-09-04,2022-09-08,South,Furniture,Bookcases,Home Office,249.47,4.22,2,0.1
+CA-100247,2022-09-05,2022-09-09,Central,Technology,Accessories,Corporate,505.6,-59.56,7,0.1
+CA-100248,2022-09-06,2022-09-09,South,Furniture,Bookcases,Home Office,682.82,-96.76,1,0.18
+CA-100249,2022-09-07,2022-09-11,South,Office Supplies,Envelopes,Home Office,85.48,6.27,1,0.08
+CA-100250,2022-09-08,2022-09-12,South,Furniture,Bookcases,Corporate,281.96,70.83,1,0.01
+CA-100251,2022-09-09,2022-09-13,South,Technology,Phones,Home Office,808.9,-22.67,8,0.22
+CA-100252,2022-09-10,2022-09-14,South,Office Supplies,Paper,Home Office,465.07,77.43,4,0.19
+CA-100253,2022-09-11,2022-09-13,East,Furniture,Chairs,Home Office,551.11,71.28,4,0.17
+CA-100254,2022-09-12,2022-09-14,South,Furniture,Furnishings,Consumer,438.49,116.54,2,0.22
+CA-100255,2022-09-13,2022-09-17,East,Office Supplies,Pens,Corporate,53.46,11.25,1,0.2
+CA-100256,2022-09-14,2022-09-17,South,Office Supplies,Binders,Corporate,174.09,14.5,9,0.06
+CA-100257,2022-09-15,2022-09-17,Central,Furniture,Chairs,Corporate,451.09,57.97,7,0.11
+CA-100258,2022-09-16,2022-09-20,West,Technology,Phones,Consumer,217.09,54.1,4,0.04
+CA-100259,2022-09-17,2022-09-19,East,Furniture,Chairs,Consumer,59.48,-0.01,6,0.04
+CA-100260,2022-09-18,2022-09-20,South,Office Supplies,Envelopes,Corporate,845.21,-30.94,2,0.2
+CA-100261,2022-09-19,2022-09-22,Central,Furniture,Furnishings,Consumer,981.38,-190.97,7,0.26
+CA-100262,2022-09-20,2022-09-24,West,Office Supplies,Pens,Corporate,795.21,169.6,2,0.29
+CA-100263,2022-09-21,2022-09-25,East,Office Supplies,Pens,Consumer,855.25,171.47,8,0.19
+CA-100264,2022-09-22,2022-09-25,West,Technology,Accessories,Home Office,249.56,-36.88,8,0.06
+CA-100265,2022-09-23,2022-09-26,Central,Office Supplies,Envelopes,Home Office,961.02,84.98,1,0.03
+CA-100266,2022-09-24,2022-09-28,East,Office Supplies,Binders,Corporate,204.96,6.56,8,0.24
+CA-100267,2022-09-25,2022-09-29,West,Technology,Phones,Consumer,951.92,-133.88,2,0.17
+CA-100268,2022-09-26,2022-09-29,South,Office Supplies,Paper,Consumer,994.87,288.79,6,0.19
+CA-100269,2022-09-27,2022-09-29,East,Technology,Phones,Home Office,714.61,-66.21,1,0.23
+CA-100270,2022-09-28,2022-09-30,West,Technology,Accessories,Home Office,981.33,-163.28,5,0.21
+CA-100271,2022-09-29,2022-10-02,Central,Office Supplies,Pens,Consumer,573.84,55.91,7,0.25
+CA-100272,2022-09-30,2022-10-02,Central,Office Supplies,Envelopes,Consumer,266.95,45.23,1,0.02
+CA-100273,2022-10-01,2022-10-04,East,Furniture,Tables,Consumer,442.63,-81.35,2,0.22
+CA-100274,2022-10-02,2022-10-04,West,Technology,Phones,Consumer,597.63,77.31,7,0.26
+CA-100275,2022-10-03,2022-10-05,East,Furniture,Tables,Consumer,82.35,5.45,6,0.09
+CA-100276,2022-10-04,2022-10-08,East,Office Supplies,Pens,Consumer,626.12,-92.9,3,0.19
+CA-100277,2022-10-05,2022-10-09,West,Furniture,Chairs,Corporate,981.37,-111.62,2,0.09
+CA-100278,2022-10-06,2022-10-08,West,Technology,Copiers,Consumer,198.21,16.65,4,0.29
+CA-100279,2022-10-07,2022-10-09,South,Furniture,Bookcases,Home Office,794.67,-41.18,3,0.01
+CA-100280,2022-10-08,2022-10-12,West,Technology,Accessories,Corporate,908.82,244.62,7,0.17
+CA-100281,2022-10-09,2022-10-13,Central,Office Supplies,Pens,Consumer,944.26,197.7,8,0.05
+CA-100282,2022-10-10,2022-10-14,East,Office Supplies,Binders,Home Office,960.53,280.27,2,0.21
+CA-100283,2022-10-11,2022-10-14,East,Technology,Copiers,Corporate,526.25,-36.92,7,0.05
+CA-100284,2022-10-12,2022-10-14,Central,Office Supplies,Pens,Home Office,977.53,278.46,8,0.07
+CA-100285,2022-10-13,2022-10-17,West,Office Supplies,Paper,Consumer,759.74,11.86,6,0.15
+CA-100286,2022-10-14,2022-10-16,Central,Office Supplies,Pens,Consumer,170.05,-4.46,6,0.27
+CA-100287,2022-10-15,2022-10-18,Central,Office Supplies,Envelopes,Consumer,482.13,-84.29,1,0.06
+CA-100288,2022-10-16,2022-10-19,South,Technology,Accessories,Consumer,721.15,-125.2,4,0.04
+CA-100289,2022-10-17,2022-10-21,Central,Furniture,Tables,Corporate,254.87,37.21,1,0.23
+CA-100290,2022-10-18,2022-10-21,East,Furniture,Chairs,Corporate,644.21,18.66,4,0.15
+CA-100291,2022-10-19,2022-10-21,Central,Office Supplies,Binders,Home Office,669.93,-58.11,2,0.27
+CA-100292,2022-10-20,2022-10-24,East,Furniture,Chairs,Consumer,171.07,18.3,5,0.04
+CA-100293,2022-10-21,2022-10-23,East,Furniture,Chairs,Home Office,569.43,-41.89,9,0.19
+CA-100294,2022-10-22,2022-10-24,East,Office Supplies,Envelopes,Corporate,773.91,68.74,3,0.07
+CA-100295,2022-10-23,2022-10-26,West,Office Supplies,Paper,Consumer,503.91,-10.28,8,0.05
+CA-100296,2022-10-24,2022-10-27,South,Furniture,Bookcases,Consumer,21.98,4.65,3,0.21
+CA-100297,2022-10-25,2022-10-28,East,Technology,Phones,Corporate,18.95,3.99,6,0.18
+CA-100298,2022-10-26,2022-10-29,East,Office Supplies,Binders,Corporate,363.46,14.06,4,0.23
+CA-100299,2022-10-27,2022-10-30,West,Technology,Phones,Corporate,926.93,-22.79,8,0.09
+CA-100300,2022-10-28,2022-11-01,East,Furniture,Bookcases,Corporate,236.39,-4.43,6,0.13
+CA-100301,2022-10-29,2022-10-31,Central,Office Supplies,Binders,Corporate,638.02,129.43,8,0.12
+CA-100302,2022-10-30,2022-11-01,Central,Technology,Copiers,Consumer,229.86,-8.25,1,0.3
+CA-100303,2022-10-31,2022-11-02,South,Office Supplies,Paper,Corporate,328.45,-31.36,6,0.09
+CA-100304,2022-11-01,2022-11-03,East,Furniture,Tables,Consumer,849.56,-133.94,1,0.09
+CA-100305,2022-11-02,2022-11-05,West,Technology,Accessories,Consumer,731.57,24.4,1,0.11
+CA-100306,2022-11-03,2022-11-05,Central,Furniture,Furnishings,Corporate,104.45,4.29,8,0.17
+CA-100307,2022-11-04,2022-11-08,West,Furniture,Bookcases,Corporate,434.42,95.77,7,0.08
+CA-100308,2022-11-05,2022-11-09,West,Office Supplies,Binders,Consumer,38.88,-3.48,3,0.27
+CA-100309,2022-11-06,2022-11-08,Central,Technology,Phones,Corporate,486.08,-4.62,6,0.08
+CA-100310,2022-11-07,2022-11-09,West,Furniture,Chairs,Corporate,665.81,135.96,9,0.27
+CA-100311,2022-11-08,2022-11-12,Central,Furniture,Chairs,Corporate,127.32,26.97,7,0.03
+CA-100312,2022-11-09,2022-11-13,West,Technology,Machines,Home Office,296.0,-2.28,3,0.2
+CA-100313,2022-11-10,2022-11-13,Central,Furniture,Chairs,Consumer,403.86,11.94,6,0.27
+CA-100314,2022-11-11,2022-11-15,East,Furniture,Furnishings,Home Office,920.34,-44.5,4,0.05
+CA-100315,2022-11-12,2022-11-15,South,Technology,Copiers,Corporate,993.32,264.5,3,0.29
+CA-100316,2022-11-13,2022-11-16,Central,Technology,Accessories,Home Office,54.46,-7.66,9,0.14
+CA-100317,2022-11-14,2022-11-17,Central,Technology,Phones,Corporate,763.4,203.73,2,0.28
+CA-100318,2022-11-15,2022-11-18,South,Technology,Accessories,Home Office,378.01,53.65,1,0.2
+CA-100319,2022-11-16,2022-11-19,Central,Office Supplies,Pens,Corporate,398.53,26.22,2,0.09
+CA-100320,2022-11-17,2022-11-19,Central,Technology,Copiers,Home Office,756.72,-138.99,7,0.06
+CA-100321,2022-11-18,2022-11-22,West,Office Supplies,Binders,Home Office,919.24,34.75,1,0.09
+CA-100322,2022-11-19,2022-11-22,South,Office Supplies,Pens,Home Office,951.42,3.69,6,0.03
+CA-100323,2022-11-20,2022-11-24,East,Office Supplies,Paper,Consumer,581.35,-69.41,7,0.04
+CA-100324,2022-11-21,2022-11-25,Central,Furniture,Chairs,Home Office,363.55,46.61,9,0.03
+CA-100325,2022-11-22,2022-11-25,South,Office Supplies,Envelopes,Consumer,789.67,225.51,8,0.13
+CA-100326,2022-11-23,2022-11-25,West,Office Supplies,Binders,Corporate,258.49,20.96,6,0.24
+CA-100327,2022-11-24,2022-11-27,East,Furniture,Tables,Home Office,568.43,89.46,3,0.04
+CA-100328,2022-11-25,2022-11-27,South,Furniture,Chairs,Corporate,364.99,-60.51,8,0.04
+CA-100329,2022-11-26,2022-11-30,East,Furniture,Chairs,Corporate,660.06,5.83,7,0.19
+CA-100330,2022-11-27,2022-11-29,East,Technology,Accessories,Home Office,247.99,-35.17,3,0.06
+CA-100331,2022-11-28,2022-11-30,East,Furniture,Chairs,Consumer,199.68,21.25,9,0.03
+CA-100332,2022-11-29,2022-12-01,Central,Furniture,Chairs,Home Office,919.06,247.45,2,0.05
+CA-100333,2022-11-30,2022-12-04,Central,Office Supplies,Paper,Corporate,110.79,14.5,3,0.28
+CA-100334,2022-12-01,2022-12-05,West,Furniture,Bookcases,Corporate,510.9,-82.56,2,0.25
+CA-100335,2022-12-02,2022-12-04,West,Technology,Accessories,Home Office,228.64,-5.18,1,0.11
+CA-100336,2022-12-03,2022-12-05,South,Furniture,Chairs,Consumer,48.54,3.66,4,0.2
+CA-100337,2022-12-04,2022-12-07,West,Technology,Machines,Consumer,45.66,0.07,5,0.16
+CA-100338,2022-12-05,2022-12-07,East,Furniture,Furnishings,Corporate,183.47,39.78,6,0.2
+CA-100339,2022-12-06,2022-12-09,East,Furniture,Tables,Corporate,868.1,179.99,5,0.2
+CA-100340,2022-12-07,2022-12-09,Central,Furniture,Furnishings,Consumer,289.65,30.68,1,0.19
+CA-100341,2022-12-08,2022-12-11,East,Furniture,Chairs,Home Office,950.95,-12.62,3,0.08
+CA-100342,2022-12-09,2022-12-13,South,Technology,Phones,Corporate,585.81,-42.37,1,0.01
+CA-100343,2022-12-10,2022-12-12,East,Technology,Accessories,Consumer,442.25,-65.04,5,0.14
+CA-100344,2022-12-11,2022-12-13,East,Office Supplies,Binders,Corporate,584.29,-13.18,5,0.27
+CA-100345,2022-12-12,2022-12-14,South,Technology,Copiers,Home Office,521.53,3.43,6,0.17
+CA-100346,2022-12-13,2022-12-15,West,Furniture,Chairs,Consumer,761.19,104.98,8,0.25
+CA-100347,2022-12-14,2022-12-17,West,Office Supplies,Paper,Corporate,289.67,37.39,1,0.3
+CA-100348,2022-12-15,2022-12-17,South,Office Supplies,Pens,Home Office,359.52,-59.3,4,0.05
+CA-100349,2022-12-16,2022-12-20,Central,Office Supplies,Pens,Corporate,895.15,-2.12,1,0.21
+CA-100350,2022-12-17,2022-12-21,East,Furniture,Furnishings,Home Office,946.99,-103.33,9,0.2
+CA-100351,2022-12-18,2022-12-20,South,Technology,Phones,Home Office,893.63,-108.66,7,0.29
+CA-100352,2022-12-19,2022-12-23,East,Furniture,Tables,Consumer,425.25,90.86,7,0.3
+CA-100353,2022-12-20,2022-12-22,Central,Office Supplies,Envelopes,Home Office,782.56,-140.11,5,0.21
+CA-100354,2022-12-21,2022-12-23,East,Furniture,Furnishings,Corporate,481.57,4.62,7,0.07
+CA-100355,2022-12-22,2022-12-26,South,Furniture,Chairs,Home Office,502.56,-58.25,2,0.24
+CA-100356,2022-12-23,2022-12-25,East,Technology,Phones,Home Office,212.63,50.96,4,0.03
+CA-100357,2022-12-24,2022-12-28,West,Technology,Accessories,Consumer,595.22,46.74,7,0.23
+CA-100358,2022-12-25,2022-12-28,Central,Office Supplies,Envelopes,Home Office,194.27,-16.38,3,0.27
+CA-100359,2022-12-26,2022-12-28,Central,Furniture,Tables,Home Office,338.25,17.32,2,0.11
+CA-100360,2022-12-27,2022-12-30,Central,Furniture,Furnishings,Corporate,856.48,141.96,2,0.19
+CA-100361,2022-12-28,2023-01-01,South,Technology,Machines,Consumer,215.01,60.0,1,0.13
+CA-100362,2022-12-29,2023-01-01,Central,Furniture,Furnishings,Consumer,80.45,-7.22,5,0.13
+CA-100363,2022-12-30,2023-01-02,West,Furniture,Chairs,Consumer,78.32,19.04,6,0.09
+CA-100364,2022-12-31,2023-01-04,South,Furniture,Furnishings,Home Office,941.38,251.49,6,0.23
+CA-100365,2023-01-01,2023-01-04,West,Technology,Machines,Consumer,511.85,132.16,9,0.28
+CA-100366,2023-01-02,2023-01-05,East,Office Supplies,Envelopes,Home Office,415.32,48.89,4,0.28
+CA-100367,2023-01-03,2023-01-07,East,Office Supplies,Pens,Home Office,812.77,93.4,1,0.05
+CA-100368,2023-01-04,2023-01-07,East,Furniture,Chairs,Corporate,837.47,1.34,6,0.26
+CA-100369,2023-01-05,2023-01-09,East,Office Supplies,Pens,Corporate,338.87,59.71,5,0.22
+CA-100370,2023-01-06,2023-01-09,West,Technology,Phones,Corporate,696.68,45.73,6,0.08
+CA-100371,2023-01-07,2023-01-11,South,Technology,Accessories,Corporate,773.41,107.29,3,0.02
+CA-100372,2023-01-08,2023-01-12,South,Office Supplies,Pens,Corporate,658.1,9.36,2,0.08
+CA-100373,2023-01-09,2023-01-12,Central,Office Supplies,Paper,Home Office,160.08,26.53,6,0.27
+CA-100374,2023-01-10,2023-01-13,West,Furniture,Furnishings,Home Office,877.12,186.16,1,0.19
+CA-100375,2023-01-11,2023-01-14,East,Office Supplies,Paper,Consumer,543.7,-68.93,7,0.22
+CA-100376,2023-01-12,2023-01-14,West,Furniture,Tables,Home Office,289.65,62.7,7,0.08
+CA-100377,2023-01-13,2023-01-15,Central,Furniture,Tables,Home Office,430.98,30.23,7,0.22
+CA-100378,2023-01-14,2023-01-16,Central,Technology,Accessories,Corporate,47.2,10.49,1,0.01
+CA-100379,2023-01-15,2023-01-19,West,Technology,Phones,Home Office,136.59,2.14,4,0.11
+CA-100380,2023-01-16,2023-01-19,West,Technology,Copiers,Corporate,767.89,-8.05,7,0.19
+CA-100381,2023-01-17,2023-01-21,West,Technology,Phones,Consumer,10.01,2.58,9,0.04
+CA-100382,2023-01-18,2023-01-20,South,Office Supplies,Binders,Consumer,422.4,-31.43,5,0.25
+CA-100383,2023-01-19,2023-01-22,East,Technology,Phones,Home Office,527.29,117.11,2,0.07
+CA-100384,2023-01-20,2023-01-24,West,Office Supplies,Paper,Consumer,64.09,2.69,7,0.2
+CA-100385,2023-01-21,2023-01-24,West,Technology,Phones,Home Office,973.35,55.53,1,0.12
+CA-100386,2023-01-22,2023-01-26,West,Office Supplies,Pens,Consumer,233.86,-10.7,7,0.18
+CA-100387,2023-01-23,2023-01-26,Central,Furniture,Chairs,Corporate,311.16,26.92,6,0.03
+CA-100388,2023-01-24,2023-01-26,Central,Office Supplies,Envelopes,Corporate,310.9,-11.63,7,0.01
+CA-100389,2023-01-25,2023-01-27,South,Office Supplies,Paper,Corporate,238.11,-42.95,3,0.27
+CA-100390,2023-01-26,2023-01-29,East,Technology,Machines,Corporate,11.46,-0.73,3,0.08
+CA-100391,2023-01-27,2023-01-31,South,Office Supplies,Pens,Home Office,732.05,-144.08,7,0.25
+CA-100392,2023-01-28,2023-01-30,East,Furniture,Bookcases,Consumer,967.18,279.69,2,0.3
+CA-100393,2023-01-29,2023-01-31,Central,Furniture,Bookcases,Home Office,232.05,65.64,1,0.06
+CA-100394,2023-01-30,2023-02-01,Central,Technology,Copiers,Corporate,666.42,-1.61,9,0.08
+CA-100395,2023-01-31,2023-02-03,Central,Furniture,Chairs,Home Office,744.48,122.23,9,0.2
+CA-100396,2023-02-01,2023-02-04,South,Office Supplies,Paper,Consumer,849.94,-23.03,7,0.29
+CA-100397,2023-02-02,2023-02-06,West,Furniture,Bookcases,Home Office,428.4,58.07,7,0.27
+CA-100398,2023-02-03,2023-02-07,West,Technology,Machines,Consumer,309.9,62.82,3,0.15
+CA-100399,2023-02-04,2023-02-08,Central,Office Supplies,Pens,Home Office,332.04,90.77,2,0.24
+CA-100400,2023-02-05,2023-02-08,West,Technology,Accessories,Consumer,715.5,0.08,7,0.04
+CA-100401,2023-02-06,2023-02-09,West,Office Supplies,Envelopes,Consumer,818.61,156.89,9,0.29
+CA-100402,2023-02-07,2023-02-11,South,Furniture,Furnishings,Corporate,189.8,-12.72,1,0.29
+CA-100403,2023-02-08,2023-02-12,East,Technology,Machines,Consumer,377.23,111.35,4,0.05
+CA-100404,2023-02-09,2023-02-12,Central,Technology,Phones,Corporate,902.92,-168.95,6,0.09
+CA-100405,2023-02-10,2023-02-14,Central,Office Supplies,Pens,Corporate,808.63,82.29,7,0.03
+CA-100406,2023-02-11,2023-02-13,South,Technology,Phones,Corporate,985.01,127.81,7,0.08
+CA-100407,2023-02-12,2023-02-15,South,Office Supplies,Envelopes,Home Office,756.71,108.98,2,0.24
+CA-100408,2023-02-13,2023-02-17,West,Office Supplies,Binders,Home Office,399.26,-55.82,4,0.11
+CA-100409,2023-02-14,2023-02-17,Central,Office Supplies,Binders,Home Office,594.73,160.14,5,0.03
+CA-100410,2023-02-15,2023-02-17,East,Office Supplies,Binders,Home Office,664.4,-72.69,1,0.1
+CA-100411,2023-02-16,2023-02-19,South,Furniture,Bookcases,Consumer,87.67,9.76,1,0.29
+CA-100412,2023-02-17,2023-02-20,East,Office Supplies,Envelopes,Consumer,549.05,-48.68,3,0.19
+CA-100413,2023-02-18,2023-02-21,East,Technology,Machines,Home Office,712.23,-33.04,3,0.12
+CA-100414,2023-02-19,2023-02-22,Central,Furniture,Bookcases,Consumer,175.65,12.86,8,0.05
+CA-100415,2023-02-20,2023-02-22,Central,Technology,Phones,Consumer,782.83,6.73,9,0.3
+CA-100416,2023-02-21,2023-02-24,South,Furniture,Chairs,Corporate,587.94,-70.49,1,0.25
+CA-100417,2023-02-22,2023-02-25,Central,Office Supplies,Paper,Corporate,952.7,-109.11,2,0.08
+CA-100418,2023-02-23,2023-02-27,Central,Furniture,Tables,Corporate,52.0,0.47,2,0.02
+CA-100419,2023-02-24,2023-02-27,Central,Furniture,Tables,Corporate,272.67,48.71,4,0.02
+CA-100420,2023-02-25,2023-03-01,East,Technology,Copiers,Consumer,605.54,150.77,2,0.04
+CA-100421,2023-02-26,2023-02-28,South,Technology,Machines,Home Office,303.59,-47.95,7,0.17
+CA-100422,2023-02-27,2023-03-01,West,Office Supplies,Paper,Consumer,717.28,-2.47,9,0.28
+CA-100423,2023-02-28,2023-03-02,East,Furniture,Furnishings,Consumer,761.42,-114.12,7,0.15
+CA-100424,2023-03-01,2023-03-03,Central,Furniture,Furnishings,Consumer,111.49,-21.37,6,0.25
+CA-100425,2023-03-02,2023-03-06,East,Furniture,Furnishings,Corporate,518.72,67.88,1,0.13
+CA-100426,2023-03-03,2023-03-06,Central,Office Supplies,Pens,Corporate,513.8,52.01,9,0.21
+CA-100427,2023-03-04,2023-03-06,Central,Office Supplies,Pens,Corporate,375.59,-44.5,5,0.22
+CA-100428,2023-03-05,2023-03-08,East,Office Supplies,Pens,Home Office,933.6,-77.58,5,0.05
+CA-100429,2023-03-06,2023-03-10,South,Office Supplies,Pens,Consumer,829.23,-156.02,6,0.11
+CA-100430,2023-03-07,2023-03-11,Central,Office Supplies,Paper,Home Office,700.24,152.28,9,0.19
+CA-100431,2023-03-08,2023-03-12,South,Technology,Phones,Corporate,717.18,206.08,8,0.02
+CA-100432,2023-03-09,2023-03-11,West,Furniture,Chairs,Home Office,467.1,-61.78,8,0.11
+CA-100433,2023-03-10,2023-03-13,Central,Furniture,Chairs,Consumer,921.78,-77.67,8,0.16
+CA-100434,2023-03-11,2023-03-14,South,Furniture,Tables,Consumer,697.65,163.39,1,0.3
+CA-100435,2023-03-12,2023-03-15,South,Furniture,Chairs,Corporate,731.69,192.6,1,0.14
+CA-100436,2023-03-13,2023-03-17,West,Furniture,Tables,Corporate,863.07,8.47,8,0.24
+CA-100437,2023-03-14,2023-03-16,South,Furniture,Tables,Home Office,281.33,-49.15,5,0.13
+CA-100438,2023-03-15,2023-03-19,South,Furniture,Tables,Corporate,809.0,-145.87,9,0.24
+CA-100439,2023-03-16,2023-03-20,West,Furniture,Chairs,Corporate,203.29,17.68,2,0.18
+CA-100440,2023-03-17,2023-03-20,Central,Technology,Machines,Consumer,351.89,-1.25,9,0.27
+CA-100441,2023-03-18,2023-03-22,South,Furniture,Chairs,Corporate,342.25,-63.55,8,0.12
+CA-100442,2023-03-19,2023-03-22,South,Technology,Phones,Corporate,978.74,89.68,9,0.18
+CA-100443,2023-03-20,2023-03-22,South,Office Supplies,Pens,Consumer,857.97,-166.75,4,0.19
+CA-100444,2023-03-21,2023-03-24,East,Furniture,Tables,Consumer,704.16,136.39,1,0.13
+CA-100445,2023-03-22,2023-03-24,West,Office Supplies,Envelopes,Home Office,729.79,-34.14,1,0.04
+CA-100446,2023-03-23,2023-03-26,East,Office Supplies,Pens,Corporate,566.45,-101.89,5,0.03
+CA-100447,2023-03-24,2023-03-28,West,Office Supplies,Envelopes,Consumer,947.62,89.24,2,0.01
+CA-100448,2023-03-25,2023-03-29,Central,Technology,Machines,Home Office,501.3,-0.58,8,0.26
+CA-100449,2023-03-26,2023-03-28,Central,Office Supplies,Paper,Home Office,386.71,110.95,5,0.07
+CA-100450,2023-03-27,2023-03-29,South,Office Supplies,Binders,Corporate,171.4,12.36,5,0.06
+CA-100451,2023-03-28,2023-03-30,West,Office Supplies,Paper,Corporate,788.34,-49.18,2,0.22
+CA-100452,2023-03-29,2023-04-01,Central,Furniture,Tables,Home Office,737.1,114.04,7,0.1
+CA-100453,2023-03-30,2023-04-02,West,Furniture,Bookcases,Consumer,390.51,-25.09,8,0.15
+CA-100454,2023-03-31,2023-04-02,Central,Technology,Accessories,Home Office,34.94,8.81,1,0.05
+CA-100455,2023-04-01,2023-04-05,East,Technology,Phones,Corporate,840.61,-10.62,2,0.29
+CA-100456,2023-04-02,2023-04-05,Central,Furniture,Furnishings,Consumer,21.3,1.6,4,0.26
+CA-100457,2023-04-03,2023-04-06,East,Technology,Accessories,Consumer,706.66,-123.46,5,0.26
+CA-100458,2023-04-04,2023-04-07,Central,Furniture,Furnishings,Home Office,970.55,12.68,2,0.12
+CA-100459,2023-04-05,2023-04-07,South,Office Supplies,Paper,Corporate,443.28,95.83,1,0.23
+CA-100460,2023-04-06,2023-04-08,East,Office Supplies,Envelopes,Home Office,242.62,49.21,9,0.04
+CA-100461,2023-04-07,2023-04-09,Central,Technology,Accessories,Home Office,707.82,-62.18,1,0.0
+CA-100462,2023-04-08,2023-04-10,South,Furniture,Bookcases,Home Office,818.96,-71.22,4,0.01
+CA-100463,2023-04-09,2023-04-11,East,Furniture,Furnishings,Consumer,550.97,114.96,2,0.18
+CA-100464,2023-04-10,2023-04-14,South,Technology,Accessories,Consumer,967.36,256.54,4,0.14
+CA-100465,2023-04-11,2023-04-15,West,Furniture,Tables,Corporate,61.15,-9.31,8,0.16
+CA-100466,2023-04-12,2023-04-14,West,Office Supplies,Pens,Corporate,509.75,12.76,8,0.0
+CA-100467,2023-04-13,2023-04-16,East,Technology,Copiers,Home Office,721.27,-22.56,9,0.13
+CA-100468,2023-04-14,2023-04-16,Central,Technology,Copiers,Home Office,864.01,203.34,5,0.22
+CA-100469,2023-04-15,2023-04-19,East,Furniture,Furnishings,Home Office,187.46,-29.66,7,0.13
+CA-100470,2023-04-16,2023-04-20,South,Technology,Machines,Corporate,802.0,-75.74,3,0.22
+CA-100471,2023-04-17,2023-04-20,Central,Furniture,Bookcases,Consumer,557.18,98.19,4,0.07
+CA-100472,2023-04-18,2023-04-22,West,Furniture,Chairs,Consumer,402.59,-70.19,9,0.24
+CA-100473,2023-04-19,2023-04-21,Central,Furniture,Chairs,Home Office,140.4,6.5,1,0.18
+CA-100474,2023-04-20,2023-04-23,West,Furniture,Tables,Home Office,866.64,18.25,2,0.06
+CA-100475,2023-04-21,2023-04-23,Central,Furniture,Chairs,Home Office,165.7,-5.43,5,0.07
+CA-100476,2023-04-22,2023-04-24,Central,Technology,Accessories,Home Office,316.69,-0.86,3,0.19
+CA-100477,2023-04-23,2023-04-26,Central,Office Supplies,Envelopes,Corporate,297.15,19.31,2,0.25
+CA-100478,2023-04-24,2023-04-26,South,Office Supplies,Envelopes,Consumer,872.7,-104.13,1,0.12
+CA-100479,2023-04-25,2023-04-29,South,Technology,Phones,Home Office,675.98,58.13,3,0.08
+CA-100480,2023-04-26,2023-04-28,East,Technology,Machines,Corporate,798.71,161.91,1,0.26
+CA-100481,2023-04-27,2023-04-30,East,Office Supplies,Pens,Home Office,257.96,46.45,1,0.2
+CA-100482,2023-04-28,2023-05-01,West,Office Supplies,Pens,Home Office,628.63,-77.35,1,0.13
+CA-100483,2023-04-29,2023-05-02,South,Office Supplies,Binders,Consumer,576.03,-72.22,8,0.15
+CA-100484,2023-04-30,2023-05-02,West,Office Supplies,Binders,Home Office,834.5,-55.0,3,0.06
+CA-100485,2023-05-01,2023-05-04,East,Office Supplies,Paper,Consumer,907.03,-17.65,1,0.19
+CA-100486,2023-05-02,2023-05-05,West,Furniture,Furnishings,Consumer,22.04,0.09,7,0.11
+CA-100487,2023-05-03,2023-05-05,East,Technology,Accessories,Consumer,677.28,94.72,3,0.3
+CA-100488,2023-05-04,2023-05-08,South,Furniture,Tables,Corporate,61.32,-10.53,8,0.14
+CA-100489,2023-05-05,2023-05-07,Central,Office Supplies,Pens,Corporate,553.37,-101.08,4,0.15
+CA-100490,2023-05-06,2023-05-09,South,Office Supplies,Pens,Consumer,294.76,-1.19,4,0.17
+CA-100491,2023-05-07,2023-05-10,West,Office Supplies,Pens,Home Office,313.71,46.61,5,0.28
+CA-100492,2023-05-08,2023-05-10,West,Furniture,Bookcases,Consumer,359.43,-37.12,6,0.24
+CA-100493,2023-05-09,2023-05-13,South,Furniture,Tables,Home Office,625.08,75.48,7,0.14
+CA-100494,2023-05-10,2023-05-13,South,Office Supplies,Pens,Consumer,340.71,-23.88,4,0.22
+CA-100495,2023-05-11,2023-05-14,East,Furniture,Furnishings,Home Office,735.37,178.73,8,0.18
+CA-100496,2023-05-12,2023-05-15,West,Furniture,Bookcases,Corporate,410.48,101.74,6,0.15
+CA-100497,2023-05-13,2023-05-15,West,Office Supplies,Pens,Home Office,77.67,-3.99,1,0.06
+CA-100498,2023-05-14,2023-05-17,South,Furniture,Bookcases,Consumer,785.92,-66.81,1,0.14
+CA-100499,2023-05-15,2023-05-19,Central,Technology,Phones,Corporate,292.9,1.66,9,0.07
+CA-100500,2023-05-16,2023-05-19,West,Technology,Machines,Home Office,438.44,-34.96,6,0.27
+CA-100501,2023-05-17,2023-05-20,Central,Technology,Machines,Home Office,688.59,93.78,8,0.1
+CA-100502,2023-05-18,2023-05-22,South,Technology,Accessories,Home Office,339.13,72.25,7,0.29
+CA-100503,2023-05-19,2023-05-22,South,Office Supplies,Paper,Home Office,66.02,9.01,6,0.16
+CA-100504,2023-05-20,2023-05-22,East,Office Supplies,Pens,Home Office,380.18,80.66,4,0.19
+CA-100505,2023-05-21,2023-05-23,West,Office Supplies,Binders,Corporate,945.0,-1.42,7,0.16
+CA-100506,2023-05-22,2023-05-24,Central,Technology,Accessories,Corporate,645.32,-78.63,9,0.04
+CA-100507,2023-05-23,2023-05-27,East,Technology,Accessories,Corporate,674.76,114.02,7,0.11
+CA-100508,2023-05-24,2023-05-27,West,Furniture,Bookcases,Corporate,635.96,-12.57,1,0.03
+CA-100509,2023-05-25,2023-05-27,East,Furniture,Bookcases,Consumer,207.0,28.08,9,0.19
+CA-100510,2023-05-26,2023-05-30,South,Technology,Accessories,Corporate,424.15,-27.43,4,0.13
+CA-100511,2023-05-27,2023-05-30,West,Technology,Accessories,Home Office,753.43,-120.09,3,0.23
+CA-100512,2023-05-28,2023-06-01,East,Technology,Machines,Home Office,110.36,32.7,4,0.07
+CA-100513,2023-05-29,2023-05-31,East,Technology,Phones,Corporate,285.07,-34.75,4,0.05
+CA-100514,2023-05-30,2023-06-01,Central,Furniture,Furnishings,Home Office,283.56,83.43,2,0.12
+CA-100515,2023-05-31,2023-06-02,East,Technology,Accessories,Corporate,437.7,126.34,1,0.28
+CA-100516,2023-06-01,2023-06-05,West,Furniture,Furnishings,Home Office,980.57,193.08,1,0.21
+CA-100517,2023-06-02,2023-06-06,West,Technology,Machines,Consumer,76.83,9.97,8,0.13
+CA-100518,2023-06-03,2023-06-05,Central,Technology,Accessories,Consumer,523.51,46.54,2,0.16
+CA-100519,2023-06-04,2023-06-08,West,Technology,Copiers,Corporate,187.57,43.71,5,0.03
+CA-100520,2023-06-05,2023-06-07,South,Furniture,Tables,Corporate,970.97,-53.68,4,0.3
+CA-100521,2023-06-06,2023-06-08,West,Furniture,Bookcases,Corporate,122.17,4.13,8,0.2
+CA-100522,2023-06-07,2023-06-10,West,Office Supplies,Paper,Home Office,409.56,44.93,2,0.09
+CA-100523,2023-06-08,2023-06-12,East,Technology,Accessories,Corporate,740.51,4.14,9,0.18
+CA-100524,2023-06-09,2023-06-11,East,Office Supplies,Paper,Consumer,707.51,9.72,7,0.03
+CA-100525,2023-06-10,2023-06-12,West,Office Supplies,Binders,Home Office,428.5,-14.94,7,0.29
+CA-100526,2023-06-11,2023-06-15,Central,Furniture,Bookcases,Corporate,353.06,28.99,1,0.05
+CA-100527,2023-06-12,2023-06-15,East,Furniture,Chairs,Home Office,403.64,90.93,2,0.19
+CA-100528,2023-06-13,2023-06-16,Central,Office Supplies,Paper,Home Office,271.63,-26.96,4,0.07
+CA-100529,2023-06-14,2023-06-16,West,Technology,Machines,Corporate,213.28,56.99,4,0.22
+CA-100530,2023-06-15,2023-06-19,West,Furniture,Chairs,Home Office,488.21,70.57,3,0.23
+CA-100531,2023-06-16,2023-06-19,South,Technology,Copiers,Consumer,275.85,58.38,7,0.2
+CA-100532,2023-06-17,2023-06-21,East,Technology,Accessories,Consumer,294.59,23.01,8,0.18
+CA-100533,2023-06-18,2023-06-22,West,Office Supplies,Binders,Home Office,660.19,125.28,2,0.27
+CA-100534,2023-06-19,2023-06-21,South,Office Supplies,Envelopes,Corporate,968.85,-185.92,4,0.02
+CA-100535,2023-06-20,2023-06-23,East,Office Supplies,Binders,Home Office,607.6,127.1,3,0.1
+CA-100536,2023-06-21,2023-06-23,West,Office Supplies,Pens,Consumer,86.21,-15.51,2,0.07
+CA-100537,2023-06-22,2023-06-25,West,Furniture,Chairs,Home Office,84.83,20.78,6,0.3
+CA-100538,2023-06-23,2023-06-26,East,Furniture,Furnishings,Home Office,951.91,281.75,4,0.12
+CA-100539,2023-06-24,2023-06-27,East,Office Supplies,Envelopes,Consumer,304.32,-16.12,6,0.22
+CA-100540,2023-06-25,2023-06-28,East,Furniture,Bookcases,Home Office,101.15,-9.59,2,0.21
+CA-100541,2023-06-26,2023-06-29,West,Office Supplies,Envelopes,Home Office,603.05,110.17,4,0.06
+CA-100542,2023-06-27,2023-07-01,West,Technology,Accessories,Corporate,627.41,-46.11,6,0.07
+CA-100543,2023-06-28,2023-06-30,South,Technology,Machines,Corporate,652.02,151.78,5,0.08
+CA-100544,2023-06-29,2023-07-03,Central,Technology,Accessories,Consumer,274.73,-40.82,3,0.12
+CA-100545,2023-06-30,2023-07-03,East,Office Supplies,Binders,Consumer,24.96,-3.42,8,0.07
+CA-100546,2023-07-01,2023-07-03,West,Technology,Accessories,Consumer,965.37,279.55,7,0.01
+CA-100547,2023-07-02,2023-07-05,West,Furniture,Tables,Corporate,258.38,35.38,3,0.26
+CA-100548,2023-07-03,2023-07-05,East,Technology,Phones,Consumer,679.27,151.78,6,0.29
+CA-100549,2023-07-04,2023-07-08,Central,Technology,Machines,Consumer,709.56,-26.85,4,0.1
+CA-100550,2023-07-05,2023-07-07,East,Technology,Accessories,Consumer,613.91,84.87,5,0.1
+CA-100551,2023-07-06,2023-07-08,Central,Furniture,Furnishings,Corporate,319.78,31.06,5,0.0
+CA-100552,2023-07-07,2023-07-09,West,Office Supplies,Binders,Home Office,278.39,28.28,7,0.2
+CA-100553,2023-07-08,2023-07-10,Central,Furniture,Bookcases,Consumer,601.69,85.0,5,0.25
+CA-100554,2023-07-09,2023-07-11,South,Office Supplies,Envelopes,Home Office,867.43,76.06,3,0.04
+CA-100555,2023-07-10,2023-07-13,West,Office Supplies,Envelopes,Consumer,947.27,13.76,5,0.05
+CA-100556,2023-07-11,2023-07-13,South,Technology,Copiers,Home Office,114.85,-7.13,7,0.24
+CA-100557,2023-07-12,2023-07-14,East,Office Supplies,Pens,Corporate,163.28,30.09,5,0.18
+CA-100558,2023-07-13,2023-07-17,East,Furniture,Chairs,Corporate,945.29,-82.11,5,0.01
+CA-100559,2023-07-14,2023-07-16,East,Furniture,Furnishings,Consumer,739.17,108.05,9,0.19
+CA-100560,2023-07-15,2023-07-19,Central,Office Supplies,Envelopes,Home Office,884.16,-73.68,3,0.09
+CA-100561,2023-07-16,2023-07-19,West,Technology,Phones,Corporate,210.61,23.73,6,0.11
+CA-100562,2023-07-17,2023-07-19,East,Technology,Machines,Consumer,591.71,102.68,1,0.23
+CA-100563,2023-07-18,2023-07-22,East,Furniture,Tables,Consumer,704.13,-63.82,5,0.24
+CA-100564,2023-07-19,2023-07-23,West,Technology,Accessories,Corporate,683.31,-116.18,8,0.12
+CA-100565,2023-07-20,2023-07-23,East,Office Supplies,Paper,Corporate,414.07,-55.7,5,0.28
+CA-100566,2023-07-21,2023-07-23,South,Office Supplies,Envelopes,Consumer,25.24,2.6,9,0.12
+CA-100567,2023-07-22,2023-07-24,West,Furniture,Tables,Home Office,587.1,131.93,6,0.23
+CA-100568,2023-07-23,2023-07-27,West,Office Supplies,Paper,Home Office,260.57,-46.25,8,0.15
+CA-100569,2023-07-24,2023-07-26,West,Furniture,Chairs,Home Office,455.75,76.14,8,0.27
+CA-100570,2023-07-25,2023-07-29,South,Office Supplies,Binders,Consumer,958.01,-28.11,3,0.27
+CA-100571,2023-07-26,2023-07-28,West,Furniture,Bookcases,Corporate,405.04,15.9,7,0.03
+CA-100572,2023-07-27,2023-07-31,South,Technology,Copiers,Consumer,841.4,222.49,7,0.28
+CA-100573,2023-07-28,2023-07-30,West,Office Supplies,Pens,Corporate,196.66,-6.69,6,0.25
+CA-100574,2023-07-29,2023-08-01,Central,Office Supplies,Pens,Home Office,675.74,22.08,7,0.24
+CA-100575,2023-07-30,2023-08-01,East,Furniture,Chairs,Home Office,977.24,-188.76,2,0.06
+CA-100576,2023-07-31,2023-08-02,Central,Furniture,Chairs,Corporate,110.87,-17.65,9,0.24
+CA-100577,2023-08-01,2023-08-04,East,Office Supplies,Binders,Corporate,18.24,-1.29,1,0.26
+CA-100578,2023-08-02,2023-08-04,South,Furniture,Tables,Consumer,439.25,-81.73,1,0.09
+CA-100579,2023-08-03,2023-08-06,Central,Office Supplies,Paper,Home Office,101.7,11.77,3,0.29
+CA-100580,2023-08-04,2023-08-06,West,Technology,Copiers,Consumer,750.9,9.91,3,0.01
+CA-100581,2023-08-05,2023-08-09,East,Furniture,Tables,Consumer,915.4,67.81,1,0.04
+CA-100582,2023-08-06,2023-08-10,East,Office Supplies,Envelopes,Consumer,439.68,-49.54,7,0.16
+CA-100583,2023-08-07,2023-08-09,Central,Technology,Phones,Home Office,266.12,-13.85,4,0.17
+CA-100584,2023-08-08,2023-08-10,South,Technology,Copiers,Consumer,440.06,58.05,2,0.19
+CA-100585,2023-08-09,2023-08-11,Central,Office Supplies,Pens,Consumer,726.21,205.26,5,0.01
+CA-100586,2023-08-10,2023-08-14,South,Furniture,Furnishings,Consumer,18.96,-3.31,6,0.29
+CA-100587,2023-08-11,2023-08-13,South,Office Supplies,Paper,Consumer,593.56,145.54,9,0.01
+CA-100588,2023-08-12,2023-08-16,East,Technology,Copiers,Consumer,617.16,54.58,4,0.04
+CA-100589,2023-08-13,2023-08-16,Central,Office Supplies,Paper,Consumer,641.31,52.56,2,0.0
+CA-100590,2023-08-14,2023-08-18,Central,Furniture,Tables,Home Office,249.6,12.51,5,0.17
+CA-100591,2023-08-15,2023-08-19,South,Technology,Machines,Consumer,716.91,-118.51,3,0.28
+CA-100592,2023-08-16,2023-08-19,Central,Office Supplies,Pens,Corporate,100.48,-15.58,2,0.2
+CA-100593,2023-08-17,2023-08-21,West,Furniture,Tables,Consumer,207.28,20.82,1,0.25
+CA-100594,2023-08-18,2023-08-20,West,Technology,Accessories,Consumer,878.7,-25.94,2,0.0
+CA-100595,2023-08-19,2023-08-21,Central,Furniture,Furnishings,Home Office,741.34,191.74,6,0.16
+CA-100596,2023-08-20,2023-08-24,Central,Technology,Machines,Home Office,23.61,0.08,8,0.14
+CA-100597,2023-08-21,2023-08-23,South,Office Supplies,Paper,Corporate,255.89,-32.85,3,0.15
+CA-100598,2023-08-22,2023-08-26,West,Furniture,Furnishings,Corporate,222.26,34.97,9,0.02
+CA-100599,2023-08-23,2023-08-25,West,Technology,Accessories,Home Office,278.1,-14.83,9,0.21
+CA-100600,2023-08-24,2023-08-26,East,Furniture,Bookcases,Home Office,255.08,16.0,2,0.15
+CA-100601,2023-08-25,2023-08-29,South,Furniture,Chairs,Consumer,71.9,10.71,8,0.23
+CA-100602,2023-08-26,2023-08-28,East,Office Supplies,Envelopes,Home Office,464.35,116.15,5,0.15
+CA-100603,2023-08-27,2023-08-31,West,Furniture,Chairs,Corporate,735.41,144.21,4,0.04
+CA-100604,2023-08-28,2023-08-30,South,Technology,Accessories,Consumer,610.66,84.38,5,0.19
+CA-100605,2023-08-29,2023-08-31,Central,Technology,Accessories,Corporate,676.14,94.54,4,0.05
+CA-100606,2023-08-30,2023-09-02,South,Technology,Accessories,Consumer,90.34,24.66,8,0.26
+CA-100607,2023-08-31,2023-09-03,Central,Technology,Phones,Home Office,951.98,-49.59,4,0.18
+CA-100608,2023-09-01,2023-09-05,Central,Office Supplies,Paper,Corporate,840.11,-167.55,6,0.05
+CA-100609,2023-09-02,2023-09-05,South,Furniture,Furnishings,Consumer,807.04,-51.67,2,0.29
+CA-100610,2023-09-03,2023-09-07,Central,Office Supplies,Pens,Consumer,824.75,-75.1,5,0.16
+CA-100611,2023-09-04,2023-09-07,East,Furniture,Bookcases,Home Office,933.38,122.2,6,0.02
+CA-100612,2023-09-05,2023-09-07,West,Furniture,Furnishings,Home Office,548.81,64.13,5,0.19
+CA-100613,2023-09-06,2023-09-10,Central,Furniture,Bookcases,Home Office,208.28,20.15,2,0.08
+CA-100614,2023-09-07,2023-09-11,East,Office Supplies,Binders,Corporate,620.62,-119.08,7,0.24
+CA-100615,2023-09-08,2023-09-10,Central,Furniture,Tables,Consumer,745.45,122.54,4,0.25
+CA-100616,2023-09-09,2023-09-13,West,Office Supplies,Paper,Home Office,740.54,-28.31,8,0.29
+CA-100617,2023-09-10,2023-09-14,East,Technology,Accessories,Corporate,526.23,69.74,7,0.15
+CA-100618,2023-09-11,2023-09-14,West,Technology,Phones,Corporate,77.77,6.09,7,0.14
+CA-100619,2023-09-12,2023-09-16,West,Furniture,Chairs,Corporate,377.4,-10.81,9,0.23
+CA-100620,2023-09-13,2023-09-15,East,Office Supplies,Binders,Home Office,921.56,-122.3,1,0.04
+CA-100621,2023-09-14,2023-09-17,East,Technology,Machines,Home Office,588.6,-89.93,6,0.16
+CA-100622,2023-09-15,2023-09-18,East,Office Supplies,Binders,Consumer,542.95,117.15,6,0.16
+CA-100623,2023-09-16,2023-09-18,South,Office Supplies,Pens,Consumer,276.16,71.58,6,0.03
+CA-100624,2023-09-17,2023-09-19,East,Furniture,Furnishings,Home Office,374.76,46.81,6,0.13
+CA-100625,2023-09-18,2023-09-21,East,Technology,Machines,Corporate,896.39,-132.92,7,0.26
+CA-100626,2023-09-19,2023-09-23,East,Furniture,Furnishings,Corporate,669.8,0.68,6,0.26
+CA-100627,2023-09-20,2023-09-23,East,Furniture,Chairs,Corporate,789.51,129.85,1,0.03
+CA-100628,2023-09-21,2023-09-23,Central,Technology,Machines,Consumer,459.8,87.32,3,0.03
+CA-100629,2023-09-22,2023-09-25,South,Technology,Phones,Corporate,633.94,-89.32,2,0.08
+CA-100630,2023-09-23,2023-09-25,West,Office Supplies,Binders,Consumer,255.9,-51.18,6,0.26
+CA-100631,2023-09-24,2023-09-27,East,Technology,Machines,Consumer,708.41,110.56,8,0.04
+CA-100632,2023-09-25,2023-09-29,Central,Office Supplies,Paper,Corporate,433.33,-9.4,3,0.22
+CA-100633,2023-09-26,2023-09-29,Central,Office Supplies,Paper,Corporate,448.12,-32.6,8,0.03
+CA-100634,2023-09-27,2023-09-30,Central,Office Supplies,Envelopes,Home Office,652.83,-126.36,8,0.19
+CA-100635,2023-09-28,2023-09-30,West,Technology,Accessories,Home Office,936.92,65.72,5,0.11
+CA-100636,2023-09-29,2023-10-01,East,Furniture,Bookcases,Corporate,73.37,16.55,8,0.24
+CA-100637,2023-09-30,2023-10-02,South,Office Supplies,Pens,Consumer,826.5,230.44,6,0.07
+CA-100638,2023-10-01,2023-10-04,South,Furniture,Chairs,Consumer,299.46,24.82,5,0.19
+CA-100639,2023-10-02,2023-10-06,Central,Furniture,Tables,Consumer,449.48,25.72,9,0.07
+CA-100640,2023-10-03,2023-10-05,West,Technology,Copiers,Consumer,31.69,-4.99,7,0.21
+CA-100641,2023-10-04,2023-10-06,West,Furniture,Furnishings,Consumer,308.04,22.93,8,0.26
+CA-100642,2023-10-05,2023-10-08,West,Furniture,Tables,Home Office,507.6,-5.08,1,0.04
+CA-100643,2023-10-06,2023-10-08,South,Technology,Copiers,Corporate,65.61,6.8,2,0.26
+CA-100644,2023-10-07,2023-10-11,Central,Office Supplies,Pens,Home Office,496.18,-2.8,8,0.18
+CA-100645,2023-10-08,2023-10-12,East,Furniture,Furnishings,Consumer,927.84,-74.09,9,0.04
+CA-100646,2023-10-09,2023-10-11,South,Technology,Phones,Consumer,114.34,-17.44,4,0.13
+CA-100647,2023-10-10,2023-10-12,Central,Furniture,Furnishings,Consumer,766.8,-32.62,9,0.05
+CA-100648,2023-10-11,2023-10-14,Central,Furniture,Chairs,Consumer,415.57,-63.03,4,0.21
+CA-100649,2023-10-12,2023-10-16,East,Office Supplies,Pens,Corporate,658.62,-73.47,9,0.23
+CA-100650,2023-10-13,2023-10-17,East,Furniture,Chairs,Consumer,267.63,78.59,7,0.03
+CA-100651,2023-10-14,2023-10-16,East,Technology,Copiers,Corporate,167.9,3.7,2,0.15
+CA-100652,2023-10-15,2023-10-18,West,Furniture,Bookcases,Consumer,168.86,11.13,9,0.24
+CA-100653,2023-10-16,2023-10-20,East,Office Supplies,Paper,Corporate,79.79,18.9,4,0.28
+CA-100654,2023-10-17,2023-10-21,Central,Office Supplies,Binders,Home Office,193.79,57.71,8,0.15
+CA-100655,2023-10-18,2023-10-21,East,Technology,Phones,Consumer,667.58,60.99,7,0.29
+CA-100656,2023-10-19,2023-10-22,Central,Office Supplies,Binders,Corporate,882.87,182.08,7,0.16
+CA-100657,2023-10-20,2023-10-24,South,Furniture,Furnishings,Home Office,815.98,-29.81,8,0.12
+CA-100658,2023-10-21,2023-10-25,West,Office Supplies,Paper,Consumer,688.28,-32.44,1,0.25
+CA-100659,2023-10-22,2023-10-25,South,Technology,Accessories,Consumer,119.33,0.16,5,0.15
+CA-100660,2023-10-23,2023-10-27,South,Office Supplies,Paper,Consumer,296.3,40.37,2,0.14
+CA-100661,2023-10-24,2023-10-26,Central,Office Supplies,Envelopes,Corporate,316.71,44.69,2,0.15
+CA-100662,2023-10-25,2023-10-27,South,Office Supplies,Binders,Corporate,257.46,-10.91,1,0.25
+CA-100663,2023-10-26,2023-10-29,Central,Technology,Phones,Home Office,519.86,-69.35,5,0.25
+CA-100664,2023-10-27,2023-10-30,East,Office Supplies,Binders,Corporate,540.2,62.77,2,0.12
+CA-100665,2023-10-28,2023-10-31,East,Office Supplies,Paper,Corporate,363.32,-49.35,4,0.1
+CA-100666,2023-10-29,2023-10-31,Central,Furniture,Tables,Consumer,360.25,32.15,3,0.15
+CA-100667,2023-10-30,2023-11-03,East,Technology,Copiers,Consumer,830.27,121.81,3,0.17
+CA-100668,2023-10-31,2023-11-02,West,Office Supplies,Envelopes,Consumer,791.4,118.95,2,0.07
+CA-100669,2023-11-01,2023-11-05,South,Technology,Machines,Consumer,314.72,55.62,6,0.24
+CA-100670,2023-11-02,2023-11-04,West,Office Supplies,Paper,Consumer,914.65,216.25,2,0.15
+CA-100671,2023-11-03,2023-11-07,South,Office Supplies,Pens,Consumer,953.29,47.64,8,0.1
+CA-100672,2023-11-04,2023-11-06,East,Office Supplies,Binders,Consumer,333.48,55.07,8,0.03
+CA-100673,2023-11-05,2023-11-08,West,Furniture,Tables,Home Office,360.88,39.55,5,0.07
+CA-100674,2023-11-06,2023-11-08,East,Furniture,Furnishings,Home Office,510.58,-54.47,7,0.28
+CA-100675,2023-11-07,2023-11-11,South,Furniture,Furnishings,Home Office,941.71,-176.25,4,0.09
+CA-100676,2023-11-08,2023-11-10,Central,Technology,Machines,Home Office,877.56,-50.66,1,0.05
+CA-100677,2023-11-09,2023-11-11,Central,Technology,Phones,Consumer,111.54,2.4,2,0.14
+CA-100678,2023-11-10,2023-11-12,West,Furniture,Furnishings,Home Office,398.8,43.29,4,0.09
+CA-100679,2023-11-11,2023-11-14,East,Technology,Phones,Consumer,557.84,125.5,1,0.01
+CA-100680,2023-11-12,2023-11-14,East,Office Supplies,Binders,Home Office,508.1,-51.76,8,0.1
+CA-100681,2023-11-13,2023-11-16,West,Office Supplies,Binders,Corporate,201.92,-27.71,9,0.16
+CA-100682,2023-11-14,2023-11-17,Central,Office Supplies,Paper,Home Office,860.23,242.36,4,0.17
+CA-100683,2023-11-15,2023-11-17,South,Furniture,Chairs,Home Office,680.17,-99.29,3,0.11
+CA-100684,2023-11-16,2023-11-18,West,Technology,Copiers,Consumer,839.53,32.95,2,0.13
+CA-100685,2023-11-17,2023-11-19,South,Furniture,Furnishings,Home Office,860.18,79.81,5,0.29
+CA-100686,2023-11-18,2023-11-22,Central,Technology,Accessories,Corporate,750.87,53.08,3,0.11
+CA-100687,2023-11-19,2023-11-21,East,Office Supplies,Envelopes,Consumer,444.82,-69.83,7,0.08
+CA-100688,2023-11-20,2023-11-23,Central,Furniture,Chairs,Consumer,614.44,-105.37,6,0.07
+CA-100689,2023-11-21,2023-11-23,West,Technology,Accessories,Home Office,168.76,-24.85,1,0.14
+CA-100690,2023-11-22,2023-11-26,East,Technology,Copiers,Consumer,676.91,62.81,8,0.23
+CA-100691,2023-11-23,2023-11-25,West,Office Supplies,Binders,Consumer,187.46,13.53,2,0.06
+CA-100692,2023-11-24,2023-11-28,West,Furniture,Furnishings,Consumer,697.01,-57.94,5,0.21
+CA-100693,2023-11-25,2023-11-29,Central,Furniture,Bookcases,Consumer,237.3,28.21,9,0.01
+CA-100694,2023-11-26,2023-11-28,West,Furniture,Chairs,Consumer,126.38,26.54,8,0.13
+CA-100695,2023-11-27,2023-11-30,Central,Office Supplies,Pens,Consumer,173.63,-31.12,2,0.23
+CA-100696,2023-11-28,2023-12-02,East,Furniture,Chairs,Corporate,11.97,0.59,9,0.1
+CA-100697,2023-11-29,2023-12-01,Central,Office Supplies,Paper,Home Office,721.55,104.38,5,0.17
+CA-100698,2023-11-30,2023-12-02,East,Office Supplies,Binders,Corporate,735.08,-54.28,6,0.06
+CA-100699,2023-12-01,2023-12-04,Central,Office Supplies,Paper,Consumer,519.78,-23.97,3,0.22
+CA-100700,2023-12-02,2023-12-06,South,Technology,Phones,Consumer,169.75,18.13,3,0.02
+CA-100701,2023-12-03,2023-12-07,South,Furniture,Chairs,Home Office,92.72,23.08,8,0.26
+CA-100702,2023-12-04,2023-12-06,West,Furniture,Furnishings,Corporate,28.94,5.93,2,0.06
+CA-100703,2023-12-05,2023-12-07,Central,Office Supplies,Pens,Home Office,174.09,15.94,2,0.26
+CA-100704,2023-12-06,2023-12-09,Central,Office Supplies,Pens,Corporate,891.95,147.27,5,0.11
+CA-100705,2023-12-07,2023-12-10,East,Furniture,Bookcases,Consumer,249.12,-4.38,6,0.22
+CA-100706,2023-12-08,2023-12-12,West,Office Supplies,Binders,Home Office,360.73,43.46,2,0.1
+CA-100707,2023-12-09,2023-12-13,Central,Furniture,Chairs,Home Office,114.29,3.78,5,0.27
+CA-100708,2023-12-10,2023-12-12,West,Technology,Phones,Consumer,230.14,-24.17,7,0.04
+CA-100709,2023-12-11,2023-12-15,South,Office Supplies,Paper,Home Office,524.03,79.06,8,0.05
+CA-100710,2023-12-12,2023-12-15,Central,Furniture,Tables,Corporate,611.68,47.85,7,0.15
+CA-100711,2023-12-13,2023-12-16,Central,Office Supplies,Envelopes,Corporate,252.9,-5.23,8,0.02
+CA-100712,2023-12-14,2023-12-16,West,Furniture,Chairs,Corporate,67.15,17.17,9,0.06
+CA-100713,2023-12-15,2023-12-18,Central,Furniture,Bookcases,Corporate,397.12,-75.27,5,0.28
+CA-100714,2023-12-16,2023-12-19,West,Office Supplies,Pens,Consumer,241.86,-10.19,5,0.29
+CA-100715,2023-12-17,2023-12-20,Central,Technology,Machines,Home Office,227.36,-39.01,4,0.11
+CA-100716,2023-12-18,2023-12-21,East,Furniture,Bookcases,Corporate,960.26,175.98,9,0.28
+CA-100717,2023-12-19,2023-12-21,West,Furniture,Furnishings,Consumer,620.14,93.67,5,0.16
+CA-100718,2023-12-20,2023-12-22,Central,Furniture,Chairs,Home Office,561.31,-19.27,2,0.08
+CA-100719,2023-12-21,2023-12-25,South,Technology,Copiers,Home Office,421.62,58.11,8,0.21
+CA-100720,2023-12-22,2023-12-25,Central,Technology,Phones,Consumer,434.65,-0.88,7,0.2
+CA-100721,2023-12-23,2023-12-27,South,Office Supplies,Paper,Consumer,545.5,97.17,8,0.3
+CA-100722,2023-12-24,2023-12-26,South,Technology,Copiers,Corporate,699.47,18.95,3,0.08
+CA-100723,2023-12-25,2023-12-27,East,Office Supplies,Paper,Home Office,705.12,4.33,4,0.2
+CA-100724,2023-12-26,2023-12-28,West,Office Supplies,Pens,Home Office,179.98,48.12,5,0.02
+CA-100725,2023-12-27,2023-12-29,Central,Technology,Phones,Consumer,505.11,-37.66,6,0.03
+CA-100726,2023-12-28,2023-12-30,East,Office Supplies,Envelopes,Home Office,417.84,-58.4,1,0.0
+CA-100727,2023-12-29,2023-12-31,Central,Technology,Phones,Corporate,871.82,80.44,4,0.3
+CA-100728,2023-12-30,2024-01-01,South,Office Supplies,Binders,Home Office,635.1,180.79,5,0.24
+CA-100729,2023-12-31,2024-01-03,West,Technology,Phones,Consumer,537.18,-5.95,7,0.24
+CA-100730,2024-01-01,2024-01-05,Central,Technology,Copiers,Consumer,124.24,-20.99,5,0.15
+CA-100731,2024-01-02,2024-01-04,Central,Office Supplies,Envelopes,Corporate,609.58,-18.5,1,0.09
+CA-100732,2024-01-03,2024-01-06,South,Furniture,Tables,Corporate,126.03,6.68,7,0.05
+CA-100733,2024-01-04,2024-01-07,Central,Office Supplies,Binders,Home Office,343.83,-40.93,8,0.09
+CA-100734,2024-01-05,2024-01-09,Central,Technology,Copiers,Home Office,151.41,19.54,7,0.11
+CA-100735,2024-01-06,2024-01-08,South,Furniture,Tables,Consumer,695.15,207.76,4,0.23
+CA-100736,2024-01-07,2024-01-11,East,Office Supplies,Binders,Corporate,214.19,5.54,8,0.16
+CA-100737,2024-01-08,2024-01-10,South,Office Supplies,Paper,Corporate,397.94,-9.01,5,0.02
+CA-100738,2024-01-09,2024-01-12,East,Office Supplies,Binders,Corporate,896.72,0.32,9,0.01
+CA-100739,2024-01-10,2024-01-13,West,Furniture,Tables,Home Office,212.27,-30.23,5,0.03
+CA-100740,2024-01-11,2024-01-14,East,Technology,Accessories,Corporate,512.73,123.89,1,0.12
+CA-100741,2024-01-12,2024-01-15,East,Office Supplies,Envelopes,Consumer,425.08,3.15,9,0.28
+CA-100742,2024-01-13,2024-01-17,West,Office Supplies,Envelopes,Consumer,27.94,-0.18,5,0.19
+CA-100743,2024-01-14,2024-01-16,East,Office Supplies,Binders,Home Office,794.83,103.2,6,0.24
+CA-100744,2024-01-15,2024-01-17,South,Office Supplies,Pens,Home Office,78.36,1.65,4,0.14
+CA-100745,2024-01-16,2024-01-20,East,Office Supplies,Envelopes,Corporate,479.51,59.52,6,0.11
+CA-100746,2024-01-17,2024-01-19,West,Technology,Accessories,Home Office,565.07,-95.65,8,0.03
+CA-100747,2024-01-18,2024-01-21,South,Technology,Machines,Consumer,632.14,130.77,3,0.26
+CA-100748,2024-01-19,2024-01-21,West,Office Supplies,Envelopes,Corporate,691.75,186.95,5,0.23
+CA-100749,2024-01-20,2024-01-23,West,Furniture,Chairs,Consumer,260.74,32.43,2,0.05
+CA-100750,2024-01-21,2024-01-25,Central,Technology,Machines,Corporate,19.88,5.51,2,0.15
+CA-100751,2024-01-22,2024-01-24,Central,Furniture,Furnishings,Home Office,726.21,-90.26,7,0.15
+CA-100752,2024-01-23,2024-01-27,West,Technology,Accessories,Corporate,540.3,20.91,6,0.19
+CA-100753,2024-01-24,2024-01-26,West,Office Supplies,Envelopes,Corporate,837.76,84.53,4,0.28
+CA-100754,2024-01-25,2024-01-28,West,Technology,Accessories,Consumer,823.17,74.8,5,0.17
+CA-100755,2024-01-26,2024-01-30,Central,Office Supplies,Envelopes,Consumer,844.89,0.62,1,0.16
+CA-100756,2024-01-27,2024-01-29,Central,Technology,Machines,Corporate,490.24,-15.18,7,0.02
+CA-100757,2024-01-28,2024-01-31,East,Office Supplies,Pens,Home Office,340.29,-46.48,8,0.02
+CA-100758,2024-01-29,2024-02-02,East,Office Supplies,Envelopes,Home Office,793.64,-3.28,9,0.06
+CA-100759,2024-01-30,2024-02-03,West,Office Supplies,Paper,Consumer,456.78,-54.21,8,0.01
+CA-100760,2024-01-31,2024-02-02,South,Office Supplies,Paper,Home Office,191.61,32.03,5,0.22
+CA-100761,2024-02-01,2024-02-03,South,Furniture,Chairs,Consumer,856.42,-81.86,3,0.22
+CA-100762,2024-02-02,2024-02-04,Central,Office Supplies,Binders,Home Office,883.73,-150.87,9,0.04
+CA-100763,2024-02-03,2024-02-06,Central,Furniture,Bookcases,Corporate,471.65,35.93,6,0.25
+CA-100764,2024-02-04,2024-02-06,Central,Furniture,Tables,Consumer,84.94,8.29,5,0.05
+CA-100765,2024-02-05,2024-02-09,West,Office Supplies,Paper,Consumer,393.95,92.96,3,0.09
+CA-100766,2024-02-06,2024-02-10,South,Furniture,Tables,Corporate,805.5,71.28,6,0.07
+CA-100767,2024-02-07,2024-02-09,East,Technology,Copiers,Consumer,902.76,-24.61,3,0.11
+CA-100768,2024-02-08,2024-02-10,West,Office Supplies,Paper,Home Office,211.44,42.61,6,0.08
+CA-100769,2024-02-09,2024-02-13,East,Furniture,Chairs,Home Office,76.3,5.35,4,0.15
+CA-100770,2024-02-10,2024-02-13,East,Office Supplies,Pens,Consumer,878.58,-140.89,2,0.12
+CA-100771,2024-02-11,2024-02-13,West,Office Supplies,Binders,Home Office,395.51,32.8,8,0.3
+CA-100772,2024-02-12,2024-02-14,East,Office Supplies,Binders,Consumer,546.34,138.78,4,0.02
+CA-100773,2024-02-13,2024-02-17,South,Furniture,Bookcases,Corporate,968.39,-1.79,9,0.04
+CA-100774,2024-02-14,2024-02-16,East,Technology,Machines,Consumer,75.9,-3.93,7,0.02
+CA-100775,2024-02-15,2024-02-18,South,Technology,Machines,Corporate,651.83,-83.61,2,0.19
+CA-100776,2024-02-16,2024-02-20,South,Furniture,Chairs,Home Office,83.36,-10.36,4,0.02
+CA-100777,2024-02-17,2024-02-19,South,Office Supplies,Envelopes,Corporate,381.71,6.25,5,0.25
+CA-100778,2024-02-18,2024-02-22,Central,Furniture,Tables,Home Office,805.78,78.84,3,0.15
+CA-100779,2024-02-19,2024-02-21,East,Furniture,Bookcases,Consumer,439.14,-70.13,9,0.16
+CA-100780,2024-02-20,2024-02-22,West,Furniture,Chairs,Home Office,997.21,269.03,5,0.17
+CA-100781,2024-02-21,2024-02-23,West,Office Supplies,Paper,Consumer,563.47,100.05,2,0.05
+CA-100782,2024-02-22,2024-02-25,East,Furniture,Furnishings,Consumer,327.95,30.6,3,0.06
+CA-100783,2024-02-23,2024-02-26,Central,Office Supplies,Paper,Corporate,227.91,48.82,9,0.1
+CA-100784,2024-02-24,2024-02-28,Central,Furniture,Furnishings,Corporate,357.02,-57.09,7,0.18
+CA-100785,2024-02-25,2024-02-27,South,Technology,Phones,Corporate,378.81,14.55,2,0.06
+CA-100786,2024-02-26,2024-02-28,East,Furniture,Tables,Corporate,78.03,8.98,9,0.03
+CA-100787,2024-02-27,2024-03-01,East,Furniture,Bookcases,Home Office,375.88,80.56,4,0.29
+CA-100788,2024-02-28,2024-03-01,West,Technology,Phones,Home Office,469.6,90.04,9,0.01
+CA-100789,2024-02-29,2024-03-03,East,Office Supplies,Paper,Home Office,725.51,-44.59,2,0.24
+CA-100790,2024-03-01,2024-03-03,Central,Office Supplies,Paper,Consumer,660.16,178.53,4,0.24
+CA-100791,2024-03-02,2024-03-06,East,Furniture,Furnishings,Home Office,711.68,-98.09,5,0.09
+CA-100792,2024-03-03,2024-03-05,West,Technology,Phones,Home Office,18.28,4.34,2,0.04
+CA-100793,2024-03-04,2024-03-06,South,Office Supplies,Binders,Home Office,225.49,64.37,1,0.04
+CA-100794,2024-03-05,2024-03-08,West,Furniture,Chairs,Corporate,665.07,-74.1,7,0.21
+CA-100795,2024-03-06,2024-03-08,West,Technology,Phones,Home Office,489.15,78.77,1,0.19
+CA-100796,2024-03-07,2024-03-09,South,Office Supplies,Envelopes,Consumer,15.26,-2.74,8,0.23
+CA-100797,2024-03-08,2024-03-11,West,Office Supplies,Pens,Corporate,806.45,2.19,3,0.28
+CA-100798,2024-03-09,2024-03-13,West,Technology,Phones,Consumer,775.08,45.06,6,0.21
+CA-100799,2024-03-10,2024-03-14,East,Technology,Machines,Home Office,552.93,49.94,7,0.05
+CA-100800,2024-03-11,2024-03-14,East,Technology,Copiers,Corporate,75.8,20.31,1,0.07
+CA-100801,2024-03-12,2024-03-15,South,Technology,Copiers,Consumer,768.85,104.66,6,0.25
+CA-100802,2024-03-13,2024-03-16,East,Furniture,Furnishings,Home Office,587.88,23.89,7,0.06
+CA-100803,2024-03-14,2024-03-17,East,Technology,Phones,Consumer,784.14,160.62,6,0.02
+CA-100804,2024-03-15,2024-03-18,West,Office Supplies,Pens,Consumer,754.23,207.61,4,0.21
+CA-100805,2024-03-16,2024-03-20,Central,Office Supplies,Binders,Consumer,804.97,-152.11,1,0.12
+CA-100806,2024-03-17,2024-03-21,East,Furniture,Chairs,Home Office,522.83,152.28,9,0.28
+CA-100807,2024-03-18,2024-03-21,Central,Office Supplies,Paper,Home Office,148.92,-23.37,4,0.2
+CA-100808,2024-03-19,2024-03-21,East,Office Supplies,Binders,Consumer,674.45,139.74,7,0.03
+CA-100809,2024-03-20,2024-03-23,East,Technology,Accessories,Corporate,624.27,-37.35,7,0.28
+CA-100810,2024-03-21,2024-03-23,South,Office Supplies,Pens,Corporate,744.83,-99.74,2,0.08
+CA-100811,2024-03-22,2024-03-25,South,Furniture,Furnishings,Home Office,178.18,3.55,1,0.1
+CA-100812,2024-03-23,2024-03-26,South,Technology,Accessories,Home Office,203.03,24.77,8,0.12
+CA-100813,2024-03-24,2024-03-28,Central,Technology,Machines,Home Office,891.51,-8.49,8,0.02
+CA-100814,2024-03-25,2024-03-27,West,Furniture,Bookcases,Home Office,752.48,-129.97,7,0.15
+CA-100815,2024-03-26,2024-03-28,East,Technology,Phones,Home Office,909.15,90.67,8,0.04
+CA-100816,2024-03-27,2024-03-31,East,Technology,Copiers,Corporate,761.13,191.2,3,0.12
+CA-100817,2024-03-28,2024-04-01,East,Furniture,Furnishings,Home Office,601.18,-5.05,2,0.11
+CA-100818,2024-03-29,2024-04-02,Central,Technology,Copiers,Consumer,657.59,-60.39,7,0.23
+CA-100819,2024-03-30,2024-04-03,South,Furniture,Chairs,Consumer,890.24,18.95,8,0.24
+CA-100820,2024-03-31,2024-04-02,West,Furniture,Bookcases,Corporate,583.02,-102.51,1,0.05
+CA-100821,2024-04-01,2024-04-03,Central,Office Supplies,Binders,Consumer,636.07,133.73,9,0.11
+CA-100822,2024-04-02,2024-04-05,South,Office Supplies,Paper,Corporate,164.91,35.15,4,0.11
+CA-100823,2024-04-03,2024-04-06,Central,Technology,Machines,Corporate,479.18,45.04,4,0.05
+CA-100824,2024-04-04,2024-04-08,West,Technology,Phones,Consumer,719.23,-16.86,3,0.24
+CA-100825,2024-04-05,2024-04-09,South,Furniture,Chairs,Home Office,278.23,55.62,6,0.21
+CA-100826,2024-04-06,2024-04-10,Central,Technology,Copiers,Consumer,210.23,16.26,1,0.06
+CA-100827,2024-04-07,2024-04-10,West,Furniture,Tables,Consumer,320.69,68.3,6,0.11
+CA-100828,2024-04-08,2024-04-11,East,Furniture,Chairs,Corporate,249.09,28.83,2,0.03
+CA-100829,2024-04-09,2024-04-12,West,Technology,Accessories,Consumer,222.76,42.82,9,0.19
+CA-100830,2024-04-10,2024-04-13,East,Furniture,Tables,Corporate,430.6,42.75,2,0.04
+CA-100831,2024-04-11,2024-04-14,Central,Office Supplies,Pens,Home Office,908.76,6.43,7,0.3
+CA-100832,2024-04-12,2024-04-15,South,Technology,Phones,Home Office,511.99,142.83,1,0.23
+CA-100833,2024-04-13,2024-04-16,South,Office Supplies,Pens,Home Office,196.04,13.83,7,0.12
+CA-100834,2024-04-14,2024-04-18,Central,Technology,Machines,Consumer,86.2,8.84,5,0.17
+CA-100835,2024-04-15,2024-04-19,South,Furniture,Furnishings,Corporate,699.19,-62.76,8,0.27
+CA-100836,2024-04-16,2024-04-20,South,Technology,Phones,Home Office,388.97,43.89,4,0.17
+CA-100837,2024-04-17,2024-04-21,East,Office Supplies,Paper,Corporate,823.61,70.67,7,0.05
+CA-100838,2024-04-18,2024-04-21,Central,Furniture,Chairs,Corporate,662.92,-71.32,6,0.11
+CA-100839,2024-04-19,2024-04-21,West,Technology,Phones,Home Office,798.28,-135.87,5,0.25
+CA-100840,2024-04-20,2024-04-23,East,Technology,Machines,Home Office,279.23,28.53,4,0.19
+CA-100841,2024-04-21,2024-04-23,Central,Technology,Machines,Corporate,695.44,126.46,7,0.2
+CA-100842,2024-04-22,2024-04-26,East,Office Supplies,Paper,Home Office,271.42,16.75,5,0.26
+CA-100843,2024-04-23,2024-04-26,West,Office Supplies,Paper,Corporate,939.68,-81.39,5,0.27
+CA-100844,2024-04-24,2024-04-28,West,Technology,Phones,Corporate,640.01,85.29,1,0.28
+CA-100845,2024-04-25,2024-04-28,Central,Furniture,Bookcases,Home Office,331.27,-52.99,2,0.03
+CA-100846,2024-04-26,2024-04-30,West,Furniture,Chairs,Consumer,276.82,5.79,5,0.16
+CA-100847,2024-04-27,2024-04-29,East,Office Supplies,Paper,Home Office,199.02,-23.55,3,0.22
+CA-100848,2024-04-28,2024-04-30,West,Furniture,Bookcases,Consumer,697.69,-75.19,2,0.23
+CA-100849,2024-04-29,2024-05-01,East,Office Supplies,Envelopes,Corporate,226.53,-22.39,4,0.18
+CA-100850,2024-04-30,2024-05-03,East,Technology,Accessories,Corporate,599.35,-3.98,4,0.05
+CA-100851,2024-05-01,2024-05-03,West,Office Supplies,Paper,Consumer,271.99,-47.44,4,0.24
+CA-100852,2024-05-02,2024-05-05,Central,Office Supplies,Pens,Corporate,665.35,-0.73,4,0.22
+CA-100853,2024-05-03,2024-05-05,South,Technology,Accessories,Consumer,816.79,45.62,3,0.03
+CA-100854,2024-05-04,2024-05-06,West,Furniture,Tables,Consumer,780.24,32.49,7,0.14
+CA-100855,2024-05-05,2024-05-08,East,Office Supplies,Paper,Corporate,763.24,-6.57,9,0.05
+CA-100856,2024-05-06,2024-05-09,East,Office Supplies,Paper,Consumer,195.85,43.0,5,0.1
+CA-100857,2024-05-07,2024-05-09,West,Technology,Accessories,Home Office,97.5,-12.42,4,0.01
+CA-100858,2024-05-08,2024-05-11,Central,Furniture,Tables,Home Office,701.96,37.1,2,0.12
+CA-100859,2024-05-09,2024-05-11,Central,Office Supplies,Paper,Corporate,374.66,-63.31,2,0.16
+CA-100860,2024-05-10,2024-05-13,East,Technology,Accessories,Corporate,438.02,-72.02,5,0.19
+CA-100861,2024-05-11,2024-05-15,East,Office Supplies,Envelopes,Consumer,40.84,3.55,7,0.2
+CA-100862,2024-05-12,2024-05-16,Central,Technology,Accessories,Consumer,266.98,22.16,9,0.25
+CA-100863,2024-05-13,2024-05-17,South,Furniture,Furnishings,Consumer,43.34,10.36,7,0.06
+CA-100864,2024-05-14,2024-05-18,West,Furniture,Furnishings,Consumer,880.39,69.5,5,0.04
+CA-100865,2024-05-15,2024-05-19,East,Furniture,Chairs,Home Office,250.96,70.24,6,0.26
+CA-100866,2024-05-16,2024-05-18,East,Furniture,Chairs,Home Office,561.76,-98.67,3,0.05
+CA-100867,2024-05-17,2024-05-21,Central,Office Supplies,Envelopes,Corporate,48.59,-7.34,5,0.29
+CA-100868,2024-05-18,2024-05-22,West,Office Supplies,Envelopes,Consumer,670.18,-119.27,8,0.25
+CA-100869,2024-05-19,2024-05-23,Central,Furniture,Tables,Consumer,329.8,-35.41,1,0.15
+CA-100870,2024-05-20,2024-05-24,West,Furniture,Chairs,Corporate,898.94,63.5,1,0.29
+CA-100871,2024-05-21,2024-05-24,West,Furniture,Bookcases,Consumer,889.24,109.19,7,0.03
+CA-100872,2024-05-22,2024-05-24,West,Office Supplies,Binders,Consumer,332.04,-58.84,5,0.09
+CA-100873,2024-05-23,2024-05-27,East,Furniture,Furnishings,Consumer,901.95,246.22,5,0.19
+CA-100874,2024-05-24,2024-05-28,South,Furniture,Furnishings,Consumer,996.2,220.24,1,0.11
+CA-100875,2024-05-25,2024-05-29,Central,Furniture,Tables,Consumer,827.16,-42.76,9,0.28
+CA-100876,2024-05-26,2024-05-28,South,Technology,Accessories,Corporate,846.42,-136.62,1,0.02
+CA-100877,2024-05-27,2024-05-30,Central,Furniture,Chairs,Consumer,256.52,-29.51,5,0.16
+CA-100878,2024-05-28,2024-05-30,West,Technology,Accessories,Corporate,580.94,-79.31,9,0.18
+CA-100879,2024-05-29,2024-06-01,East,Technology,Copiers,Consumer,76.58,-10.6,4,0.2
+CA-100880,2024-05-30,2024-06-03,South,Furniture,Bookcases,Home Office,103.97,6.16,8,0.08
+CA-100881,2024-05-31,2024-06-04,East,Technology,Accessories,Home Office,998.9,-76.99,6,0.11
+CA-100882,2024-06-01,2024-06-03,Central,Furniture,Bookcases,Home Office,333.37,-6.98,3,0.25
+CA-100883,2024-06-02,2024-06-04,East,Office Supplies,Pens,Home Office,750.7,221.27,4,0.06
+CA-100884,2024-06-03,2024-06-06,East,Office Supplies,Binders,Corporate,808.6,114.95,2,0.25
+CA-100885,2024-06-04,2024-06-07,South,Office Supplies,Pens,Corporate,859.44,235.91,1,0.17
+CA-100886,2024-06-05,2024-06-07,West,Office Supplies,Envelopes,Consumer,997.65,-128.42,8,0.23
+CA-100887,2024-06-06,2024-06-09,East,Technology,Machines,Home Office,249.08,-2.22,1,0.21
+CA-100888,2024-06-07,2024-06-09,West,Furniture,Chairs,Corporate,49.95,3.86,1,0.06
+CA-100889,2024-06-08,2024-06-11,Central,Furniture,Tables,Consumer,417.08,-67.41,4,0.17
+CA-100890,2024-06-09,2024-06-11,East,Furniture,Chairs,Consumer,138.78,-27.47,6,0.26
+CA-100891,2024-06-10,2024-06-12,South,Office Supplies,Paper,Corporate,32.2,4.35,9,0.13
+CA-100892,2024-06-11,2024-06-13,Central,Office Supplies,Paper,Home Office,366.82,44.35,1,0.29
+CA-100893,2024-06-12,2024-06-15,Central,Furniture,Tables,Consumer,785.9,4.24,7,0.14
+CA-100894,2024-06-13,2024-06-16,South,Office Supplies,Paper,Home Office,570.52,25.57,5,0.04
+CA-100895,2024-06-14,2024-06-17,East,Furniture,Tables,Home Office,319.65,2.47,8,0.12
+CA-100896,2024-06-15,2024-06-17,East,Furniture,Chairs,Home Office,657.8,-123.66,7,0.29
+CA-100897,2024-06-16,2024-06-19,Central,Furniture,Tables,Consumer,239.7,-7.75,4,0.1
+CA-100898,2024-06-17,2024-06-20,East,Furniture,Bookcases,Home Office,24.24,-2.7,4,0.26
+CA-100899,2024-06-18,2024-06-20,West,Furniture,Bookcases,Consumer,766.71,-115.61,6,0.26
+CA-100900,2024-06-19,2024-06-23,South,Furniture,Tables,Home Office,627.51,174.67,6,0.11
+CA-100901,2024-06-20,2024-06-22,West,Furniture,Bookcases,Consumer,764.68,76.22,9,0.02
+CA-100902,2024-06-21,2024-06-24,East,Office Supplies,Envelopes,Home Office,48.55,7.98,5,0.22
+CA-100903,2024-06-22,2024-06-24,Central,Furniture,Chairs,Corporate,838.75,-35.49,8,0.09
+CA-100904,2024-06-23,2024-06-27,South,Furniture,Chairs,Home Office,623.33,-2.14,5,0.23
+CA-100905,2024-06-24,2024-06-26,East,Office Supplies,Paper,Home Office,567.76,-46.29,2,0.13
+CA-100906,2024-06-25,2024-06-28,East,Office Supplies,Paper,Consumer,628.37,-95.21,6,0.15
+CA-100907,2024-06-26,2024-06-30,Central,Office Supplies,Envelopes,Consumer,865.79,-95.66,9,0.23
+CA-100908,2024-06-27,2024-06-30,Central,Furniture,Tables,Home Office,591.07,117.48,3,0.11
+CA-100909,2024-06-28,2024-07-02,West,Technology,Copiers,Corporate,585.14,81.2,1,0.13
+CA-100910,2024-06-29,2024-07-03,South,Technology,Machines,Corporate,990.77,72.79,1,0.11
+CA-100911,2024-06-30,2024-07-02,South,Office Supplies,Pens,Consumer,759.16,28.5,3,0.11
+CA-100912,2024-07-01,2024-07-03,Central,Technology,Phones,Corporate,447.87,116.99,5,0.16
+CA-100913,2024-07-02,2024-07-05,West,Office Supplies,Pens,Home Office,710.32,-116.23,3,0.24
+CA-100914,2024-07-03,2024-07-05,South,Furniture,Chairs,Consumer,395.34,-23.6,9,0.11
+CA-100915,2024-07-04,2024-07-06,Central,Technology,Copiers,Home Office,236.59,-5.92,8,0.16
+CA-100916,2024-07-05,2024-07-09,East,Furniture,Chairs,Consumer,600.88,114.9,3,0.2
+CA-100917,2024-07-06,2024-07-08,South,Technology,Accessories,Consumer,928.9,275.19,9,0.08
+CA-100918,2024-07-07,2024-07-11,West,Furniture,Bookcases,Consumer,929.85,-74.08,6,0.08
+CA-100919,2024-07-08,2024-07-12,West,Technology,Phones,Consumer,348.49,82.65,7,0.28
+CA-100920,2024-07-09,2024-07-13,West,Furniture,Bookcases,Corporate,532.4,114.63,4,0.22
+CA-100921,2024-07-10,2024-07-13,East,Furniture,Furnishings,Home Office,219.52,-19.25,4,0.17
+CA-100922,2024-07-11,2024-07-14,South,Technology,Accessories,Home Office,995.67,-0.33,2,0.19
+CA-100923,2024-07-12,2024-07-15,South,Furniture,Chairs,Home Office,981.31,4.75,5,0.01
+CA-100924,2024-07-13,2024-07-17,East,Furniture,Furnishings,Consumer,653.01,188.79,8,0.19
+CA-100925,2024-07-14,2024-07-17,South,Furniture,Bookcases,Corporate,806.37,-88.34,7,0.15
+CA-100926,2024-07-15,2024-07-18,East,Technology,Machines,Home Office,717.95,143.29,7,0.16
+CA-100927,2024-07-16,2024-07-18,East,Technology,Copiers,Corporate,597.23,-19.65,6,0.11
+CA-100928,2024-07-17,2024-07-20,East,Furniture,Tables,Consumer,62.81,10.39,3,0.02
+CA-100929,2024-07-18,2024-07-21,West,Furniture,Furnishings,Home Office,460.22,4.6,5,0.06
+CA-100930,2024-07-19,2024-07-23,South,Technology,Accessories,Corporate,678.04,60.47,1,0.29
+CA-100931,2024-07-20,2024-07-24,East,Technology,Phones,Consumer,680.76,147.25,7,0.12
+CA-100932,2024-07-21,2024-07-25,South,Furniture,Bookcases,Corporate,379.39,76.67,9,0.14
+CA-100933,2024-07-22,2024-07-26,West,Furniture,Bookcases,Home Office,942.28,219.75,1,0.02
+CA-100934,2024-07-23,2024-07-27,East,Furniture,Tables,Home Office,175.68,-29.9,2,0.01
+CA-100935,2024-07-24,2024-07-28,Central,Office Supplies,Paper,Consumer,505.36,73.8,3,0.22
+CA-100936,2024-07-25,2024-07-28,West,Technology,Phones,Consumer,693.98,-90.22,3,0.16
+CA-100937,2024-07-26,2024-07-30,Central,Office Supplies,Envelopes,Consumer,700.16,5.54,8,0.15
+CA-100938,2024-07-27,2024-07-31,South,Technology,Copiers,Corporate,652.15,48.45,7,0.07
+CA-100939,2024-07-28,2024-07-30,South,Technology,Copiers,Corporate,282.54,0.39,6,0.22
+CA-100940,2024-07-29,2024-08-01,West,Technology,Phones,Corporate,164.64,9.85,4,0.05
+CA-100941,2024-07-30,2024-08-02,South,Technology,Phones,Consumer,639.58,190.76,9,0.06
+CA-100942,2024-07-31,2024-08-03,Central,Technology,Accessories,Home Office,603.31,-79.87,1,0.14
+CA-100943,2024-08-01,2024-08-05,East,Technology,Accessories,Home Office,187.56,25.83,2,0.09
+CA-100944,2024-08-02,2024-08-06,East,Technology,Machines,Corporate,708.09,-1.42,4,0.07
+CA-100945,2024-08-03,2024-08-07,East,Office Supplies,Binders,Corporate,460.62,-61.49,3,0.19
+CA-100946,2024-08-04,2024-08-06,West,Furniture,Furnishings,Home Office,671.08,-80.95,1,0.2
+CA-100947,2024-08-05,2024-08-09,South,Furniture,Chairs,Home Office,838.99,230.42,5,0.25
+CA-100948,2024-08-06,2024-08-08,Central,Office Supplies,Pens,Corporate,178.03,42.69,7,0.13
+CA-100949,2024-08-07,2024-08-10,South,Office Supplies,Binders,Corporate,28.95,7.34,2,0.02
+CA-100950,2024-08-08,2024-08-12,South,Office Supplies,Binders,Home Office,781.31,231.09,5,0.08
+CA-100951,2024-08-09,2024-08-11,South,Office Supplies,Pens,Consumer,613.6,-58.81,6,0.29
+CA-100952,2024-08-10,2024-08-12,East,Technology,Phones,Corporate,702.64,-15.66,7,0.18
+CA-100953,2024-08-11,2024-08-15,Central,Furniture,Furnishings,Home Office,839.77,113.04,1,0.21
+CA-100954,2024-08-12,2024-08-15,Central,Technology,Accessories,Home Office,804.78,33.72,7,0.0
+CA-100955,2024-08-13,2024-08-16,South,Furniture,Tables,Home Office,961.31,8.84,4,0.16
+CA-100956,2024-08-14,2024-08-17,East,Furniture,Furnishings,Home Office,540.58,-11.4,8,0.01
+CA-100957,2024-08-15,2024-08-17,East,Office Supplies,Pens,Consumer,493.61,47.83,4,0.17
+CA-100958,2024-08-16,2024-08-18,Central,Technology,Phones,Home Office,407.87,35.81,6,0.28
+CA-100959,2024-08-17,2024-08-19,East,Office Supplies,Envelopes,Corporate,162.15,-19.34,9,0.29
+CA-100960,2024-08-18,2024-08-20,East,Technology,Accessories,Consumer,576.88,20.69,5,0.16
+CA-100961,2024-08-19,2024-08-22,East,Furniture,Tables,Home Office,284.24,21.81,4,0.14
+CA-100962,2024-08-20,2024-08-24,West,Office Supplies,Envelopes,Consumer,922.09,78.51,8,0.28
+CA-100963,2024-08-21,2024-08-23,South,Office Supplies,Paper,Corporate,587.36,-55.77,9,0.2
+CA-100964,2024-08-22,2024-08-24,Central,Furniture,Furnishings,Home Office,596.91,102.15,4,0.02
+CA-100965,2024-08-23,2024-08-26,Central,Furniture,Tables,Corporate,361.38,-67.72,3,0.14
+CA-100966,2024-08-24,2024-08-28,West,Furniture,Furnishings,Home Office,61.47,-1.39,8,0.07
+CA-100967,2024-08-25,2024-08-29,South,Office Supplies,Binders,Home Office,41.43,7.88,5,0.14
+CA-100968,2024-08-26,2024-08-29,Central,Technology,Phones,Home Office,429.1,35.16,2,0.14
+CA-100969,2024-08-27,2024-08-30,East,Office Supplies,Binders,Home Office,93.72,-6.51,9,0.17
+CA-100970,2024-08-28,2024-09-01,Central,Technology,Phones,Home Office,610.78,90.08,3,0.11
+CA-100971,2024-08-29,2024-08-31,East,Office Supplies,Paper,Consumer,882.16,73.83,2,0.05
+CA-100972,2024-08-30,2024-09-03,West,Office Supplies,Pens,Home Office,884.09,175.16,1,0.15
+CA-100973,2024-08-31,2024-09-03,East,Furniture,Furnishings,Home Office,662.45,110.97,8,0.25
+CA-100974,2024-09-01,2024-09-03,Central,Technology,Copiers,Consumer,219.12,23.02,3,0.2
+CA-100975,2024-09-02,2024-09-04,Central,Office Supplies,Paper,Consumer,864.37,38.11,7,0.1
+CA-100976,2024-09-03,2024-09-06,Central,Office Supplies,Paper,Consumer,887.23,-118.36,1,0.28
+CA-100977,2024-09-04,2024-09-07,West,Furniture,Bookcases,Consumer,204.69,-14.19,1,0.27
+CA-100978,2024-09-05,2024-09-08,West,Furniture,Bookcases,Consumer,740.05,7.07,9,0.06
+CA-100979,2024-09-06,2024-09-10,South,Technology,Accessories,Consumer,293.65,29.26,8,0.01
+CA-100980,2024-09-07,2024-09-11,Central,Office Supplies,Paper,Home Office,804.61,45.75,3,0.22
+CA-100981,2024-09-08,2024-09-10,East,Technology,Machines,Home Office,997.27,-55.76,6,0.25
+CA-100982,2024-09-09,2024-09-12,West,Office Supplies,Binders,Corporate,39.73,-7.82,3,0.29
+CA-100983,2024-09-10,2024-09-12,Central,Technology,Phones,Home Office,898.39,43.23,4,0.27
+CA-100984,2024-09-11,2024-09-13,Central,Furniture,Furnishings,Home Office,626.4,-35.82,1,0.18
+CA-100985,2024-09-12,2024-09-14,West,Office Supplies,Pens,Consumer,973.65,162.9,5,0.16
+CA-100986,2024-09-13,2024-09-15,South,Technology,Accessories,Consumer,470.36,-88.44,1,0.01
+CA-100987,2024-09-14,2024-09-17,West,Furniture,Bookcases,Home Office,848.91,78.45,1,0.07
+CA-100988,2024-09-15,2024-09-17,West,Furniture,Chairs,Corporate,71.77,19.43,7,0.14
+CA-100989,2024-09-16,2024-09-19,East,Technology,Phones,Consumer,341.93,-38.57,6,0.19
+CA-100990,2024-09-17,2024-09-20,East,Office Supplies,Pens,Home Office,76.35,2.74,2,0.17
+CA-100991,2024-09-18,2024-09-22,South,Office Supplies,Binders,Home Office,975.59,-150.52,2,0.22
+CA-100992,2024-09-19,2024-09-22,Central,Furniture,Tables,Corporate,818.8,92.39,7,0.08
+CA-100993,2024-09-20,2024-09-24,West,Office Supplies,Envelopes,Corporate,854.02,64.28,1,0.17
+CA-100994,2024-09-21,2024-09-24,South,Office Supplies,Pens,Consumer,938.59,3.46,2,0.03
+CA-100995,2024-09-22,2024-09-25,East,Office Supplies,Paper,Corporate,94.25,5.72,8,0.12
+CA-100996,2024-09-23,2024-09-26,West,Furniture,Tables,Home Office,391.74,97.26,6,0.23
+CA-100997,2024-09-24,2024-09-28,Central,Technology,Phones,Home Office,80.32,-8.18,2,0.21
+CA-100998,2024-09-25,2024-09-29,East,Office Supplies,Paper,Corporate,218.69,-41.27,7,0.3
+CA-100999,2024-09-26,2024-09-28,East,Furniture,Bookcases,Corporate,237.07,54.72,4,0.08
