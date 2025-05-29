@@ -3,7 +3,24 @@
 
 A fully interactive and data-rich **Sales Analytics Dashboard** built using **Python** and **Streamlit**, with exportable KPIs and business insights for strategic decision-making.
 
+
 ---
+
+## 📬 Author
+
+**Gbenga Kajola**
+
+[LinkedIn](https://www.linkedin.com/in/kajolagbenga)
+
+[Certified_Data_Scientist](https://www.datacamp.com/certificate/DSA0012312825030)
+
+[Certified_Data_Analyst](https://www.datacamp.com/certificate/DAA0018583322187)
+
+[Certified_SQL_Database_Programmer](https://www.datacamp.com/certificate/SQA0019722049554)
+
+
+---
+
 
 ## 🔍 Overview
 
@@ -97,13 +114,6 @@ streamlit run analytics.py
 
 _Include screenshots of your dashboard in use for portfolio or README enhancements._
 
----
-
-## 📬 Author
-
-**Gbenga Kajola**  
-Certified Data Scientist & Business Analyst  
-[LinkedIn](https://www.linkedin.com/in/kajolagbenga)  
 
 ---
 
