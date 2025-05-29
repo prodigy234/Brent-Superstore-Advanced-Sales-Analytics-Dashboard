@@ -73,7 +73,7 @@ Download a comprehensive **Excel summary report** with:
 ## 📁 File Structure
 
 ```
-📦 Streamlit Sales Dashboard/
+📦 Brent SuperStore Streamlit Sales Dashboard/
 ├── superstore_synthetic.csv       # Main dataset
 ├── analytics.py                   # Streamlit dashboard app
 ├── README.md                      # This readme file
@@ -86,7 +86,8 @@ Download a comprehensive **Excel summary report** with:
 ### 1. Clone or download the repository
 
 ```bash
-git clone https://github.com/your-username/superstore-dashboard.git
+
+git clone https://github.com/prodigy234/Brent-Superstore-Advanced-Sales-Analytics-Dashboard.git
 cd superstore-dashboard
 ```
 
@@ -107,13 +108,6 @@ pip install streamlit pandas plotly xlsxwriter
 ```bash
 streamlit run analytics.py
 ```
-
----
-
-## 📊 Screenshot Preview
-
-_Include screenshots of your dashboard in use for portfolio or README enhancements._
-
 
 ---
 
