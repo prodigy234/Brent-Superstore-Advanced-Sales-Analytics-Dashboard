@@ -133,4 +133,16 @@ with st.expander("🔍 View Raw Data"):
     st.dataframe(df_filtered)
 
 st.markdown("---")
-st.markdown("✅ Created with Python + Streamlit | 📬 Gbenga Kajola")
+st.markdown("### 👨‍💻 About the Developer")
+st.markdown("""
+**Gbenga Kajola**  
+📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/kajolagbenga)  
+💻 [GitHub](https://github.com/prodigy234)  
+🌐 [Portfolio](https://kajolagbenga.netlify.app/)  
+📧 k.gbenga234@gmail.com
+""")
+
+st.markdown("✅ Created using Python and Streamlit")
+
