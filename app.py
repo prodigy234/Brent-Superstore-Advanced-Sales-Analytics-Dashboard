@@ -131,12 +131,13 @@ st.download_button(
 # -----------------------------------------------
 
 st.markdown("---")
-st.markdown("### 👨‍💻 About the Developer")
-st.markdown("""
-**Gbenga Kajola**  
-📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer  
+st.markdown("# 👨‍💻 About the Developer")
+st.markdown("## **Kajola Gbenga**")
+st.markdown(""" 
+📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer | Mobile App Developer
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kajolagbenga)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kajolagbenga)
+📜 [View My Certifications & Licences](https://www.datacamp.com/portfolio/kgbenga234)  
 💻 [GitHub](https://github.com/prodigy234)  
 🌐 [Portfolio](https://kajolagbenga.netlify.app/)  
 📧 k.gbenga234@gmail.com
