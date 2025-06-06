@@ -129,8 +129,6 @@ st.download_button(
 # -----------------------------------------------
 # RAW DATA
 # -----------------------------------------------
-with st.expander("🔍 View Raw Data"):
-    st.dataframe(df_filtered)
 
 st.markdown("---")
 st.markdown("### 👨‍💻 About the Developer")
