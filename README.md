@@ -108,7 +108,7 @@ pip install streamlit pandas plotly xlsxwriter
 ### 3. Launch the app
 
 ```bash
-streamlit run analytics.py
+streamlit run app.py
 ```
 
 ---
