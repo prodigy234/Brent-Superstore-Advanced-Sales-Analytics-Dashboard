@@ -77,7 +77,8 @@ Download a comprehensive **Excel summary report** with:
 ```
 📦 Brent SuperStore Streamlit Sales Dashboard/
 ├── superstore_synthetic.csv       # Main dataset
-├── analytics.py                   # Streamlit dashboard app
+├── app.py                   # Streamlit dashboard app
+├── requirements.txt                   # Installation of Dependencies
 ├── README.md                      # This readme file
 ```
 
