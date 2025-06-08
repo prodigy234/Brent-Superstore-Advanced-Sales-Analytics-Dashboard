@@ -1,0 +1,66 @@
+
+🧾 INSIGHT REPORT: Brent Superstore Sales Analytics
+
+📌 Overview
+The dashboard analyzes 1,000 sales records from Brent Superstore, spanning order details, customer segmentation, product categories, and sales performance. It includes interactive visualizations and KPIs.
+
+-------------------------------------------------------------
+1. 📥 Data Loading and Preprocessing
+- Data includes Region, Category, Sub-Category, Segment, Sales, Profit, Discount, etc.
+- Order Date and Ship Date were parsed to datetime formats for time series analysis.
+
+2. 🔍 Sidebar Filters
+- Allows interactive filtering by Region and Category.
+- Supports dynamic slicing for targeted insights (e.g., only “West” region or “Technology” category).
+
+3. 📊 Key Performance Indicators (KPIs)
+- Total Sales: $504,836.02
+- Total Profit: $20,307.69
+- Total Orders: 1000
+These metrics reflect revenue, net profit, and the number of unique orders.
+
+4. 📈 Sales Trend Over Time
+- Sales show irregular daily fluctuations.
+- Peaks on specific days suggest seasonality or periodic demand.
+
+5. 🛍️ Sales by Category and Sub-Category
+- Top Categories by Sales: Technology, Office Supplies, Furniture.
+- High-selling sub-categories: Chairs, Phones, Binders.
+
+6. 🌍 Profit by Region
+- East and West regions contribute the highest profits.
+- South region underperforms and may need profitability strategies.
+
+7. 👥 Customer Segment Performance
+- Consumer segment generates the most sales.
+- Corporate segment yields better profit margins.
+
+8. 🏆 Top 10 Products by Sales
+- Top performers: Phones, Chairs, Binders, Paper.
+- Prioritize stocking and promoting these items.
+
+9. ❌ Loss-Making Products
+- Sub-categories like Tables, Bookcases, and Machines are unprofitable.
+- Recommend revisiting pricing, supplier terms, or discounting.
+
+10. 💸 Discount Impact on Profit
+- High discounts negatively affect profits.
+- Excessive discounting in Furniture is a key concern.
+- Recommend revising discount policies to protect margins.
+
+11. 📤 Downloadable Summary
+- Export includes KPI summary, loss-making products, region profit, and top products in Excel format.
+
+🧑‍💻 About the Developer
+Kajola Gbenga
+- Certified Data Analyst, Scientist & SQL Programmer
+- LinkedIn: https://www.linkedin.com/in/kajolagbenga
+- GitHub: https://github.com/prodigy234
+- Portfolio: https://kajolagbenga.netlify.app
+
+✅ Strategic Summary
+- Focus on best-selling sub-categories (Phones, Chairs).
+- Reduce discounting to improve profitability.
+- Address underperformance in regions like South.
+- Reevaluate products with negative profit margins.
+- Capitalize on Corporate customer segment for higher ROI.
