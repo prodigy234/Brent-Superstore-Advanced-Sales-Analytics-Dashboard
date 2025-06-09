@@ -136,7 +136,7 @@ st.markdown("## **Kajola Gbenga**")
 
 st.markdown(
     """
-📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer | Mobile App Developer
+📇 Certified Data Analyst | Certified Data Scientist | Certified SQL Programmer | Mobile App Developer | AI/ML Engineer
 
 🔗 [LinkedIn](https://www.linkedin.com/in/kajolagbenga)  
 📜 [View My Certifications & Licences](https://www.datacamp.com/portfolio/kgbenga234)  
